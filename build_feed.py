@@ -242,10 +242,6 @@ def build_items(currency, products):
             item["ean"] = (barcodes[0]["value"] or "").strip() if barcodes else ""
             item["title"] = prod["title"] if default_only else f"{prod['title']} - {v['title']}"
             item["product_type"] = prod.get("productType") or ""
-            if not default_only:
-                for n, opt in enumerate(v["selectedOptions"], start=1):
-                    item[f"option{n}_name"] = opt["name"]
-                    item[f"option{n}_value"] = opt["value"]
             item["rrp_incl_vat"] = f"{Decimal(v['price']):.2f}"
             item["currency"] = currency
             tracked = (v.get("inventoryItem") or {}).get("tracked")
