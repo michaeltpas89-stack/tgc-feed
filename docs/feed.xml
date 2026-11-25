@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<products generated="2026-11-24T14:13:03Z" count="888">
+<products generated="2026-11-25T13:25:54Z" count="892">
   <item>
     <ean>6151133859868</ean>
     <title>TUBES Wall Light - 20cm / Bronze</title>
     <product_type>Lighting &gt; Wall Lights</product_type>
     <rrp_incl_vat>118.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>209</stock_quantity>
+    <stock_quantity>207</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/tubes-wall-light?variant=52378867007817</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/2a4832eb-4a71-4bd2-9592-ee95e212a8dc_dc16a90d-3b29-487f-a111-a66a14c229f0.jpg?v=1769369629&amp;width=2000</image>
     <description>Directional tube wall light in two lengths and three finishes. One of the most versatile and affordable fittings in the collection. Works beautifully in a row.</description>
@@ -39,7 +39,7 @@
     <product_type>Lighting &gt; Wall Lights</product_type>
     <rrp_incl_vat>138.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>111</stock_quantity>
+    <stock_quantity>109</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/tubes-wall-light?variant=52881898438985</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/2a4832eb-4a71-4bd2-9592-ee95e212a8dc_dc16a90d-3b29-487f-a111-a66a14c229f0.jpg?v=1769369629&amp;width=2000</image>
     <description>Directional tube wall light in two lengths and three finishes. One of the most versatile and affordable fittings in the collection. Works beautifully in a row.</description>
@@ -61,7 +61,7 @@
     <product_type>Lighting &gt; Wall Lights</product_type>
     <rrp_incl_vat>138.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>178</stock_quantity>
+    <stock_quantity>171</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/tubes-wall-light?variant=52881898504521</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/3ec8e596-78cd-4ed5-bfb1-5d146abdc1f2_256428e3-c485-4ff6-90b0-ced26b514eee.jpg?v=1769634191&amp;width=2000</image>
     <description>Directional tube wall light in two lengths and three finishes. One of the most versatile and affordable fittings in the collection. Works beautifully in a row.</description>
@@ -446,7 +446,7 @@
     <product_type>Furniture &gt; Nightstands</product_type>
     <rrp_incl_vat>790.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>2</stock_quantity>
+    <stock_quantity>0</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/celine-nightstand?variant=53597593502025</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/image.jpg?v=1753223237&amp;width=2000</image>
     <description>Vegan leather-wrapped wood nightstand in Taupe or Beige. Soft and tactile at the bedside, in two warm neutrals that suit most bedroom palettes.</description>
@@ -468,7 +468,7 @@
     <product_type>Lighting &gt; Chandeliers</product_type>
     <rrp_incl_vat>690.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>9</stock_quantity>
+    <stock_quantity>5</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/chavelli-chandelier?variant=52378666238281</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/184-8sbr-2.jpg?v=1760564917&amp;width=2000</image>
     <description>Multi-arm chandelier with a spiralling form in Brushed Brass or Bronze. A sculptural ceiling piece with real character for dining rooms and entrance halls.</description>
@@ -501,7 +501,7 @@
     <product_type>Lighting &gt; Chandeliers</product_type>
     <rrp_incl_vat>690.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>32</stock_quantity>
+    <stock_quantity>31</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/churchill-chandelier?variant=52881709564233</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/clys-222-9-1-jpg_50af1bc6-d22e-4b88-9834-a2b867f0c705.jpg?v=1761778385&amp;width=2000</image>
     <description>Globe pendant chandelier with a round glass shade in Bronze with Milk Glass or Brass with Clear Glass. Timeless, dimmable, and warm for any dining room or living area.</description>
@@ -600,7 +600,7 @@
     <product_type>Lighting &gt; Wall Lights</product_type>
     <rrp_incl_vat>228.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>78</stock_quantity>
+    <stock_quantity>76</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/alessia-reading-wall-light?variant=52696851284297</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/allesia-bronze-3.jpg?v=1768137437&amp;width=2000</image>
     <description>Slim articulated bedside reading light in Bronze or Black. Frees up the nightstand entirely and directs focused warm light exactly where it is needed.</description>
@@ -644,7 +644,7 @@
     <product_type>Lighting &gt; Ceiling Lights</product_type>
     <rrp_incl_vat>199.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>13</stock_quantity>
+    <stock_quantity>11</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/tubes-pendant-light?variant=52881896800585</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/tube-pendant-gun-black_699fb7f0-319c-4e95-a66f-c95da8006061.png?v=1758140359&amp;width=2000</image>
     <description>Compact directional tube pendant in Bronze, Brushed Brass, or Gun Metal. Affordable, versatile, and works beautifully in a row above a kitchen island.</description>
@@ -659,6 +659,28 @@
     <url>https://www.thegrandcollection.eu/products/riva-wall-light?variant=52378829979977</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/schermafbeelding-2024-11-18-om-103446.png?v=1748284769&amp;width=2000</image>
     <description>Slim horizontal wall light in stainless steel with a warm bronze finish. Projects light up, down, or both. A clean, architectural accent for any interior.</description>
+  </item>
+  <item>
+    <ean>6156041681624</ean>
+    <title>VENTO Mini Spot IP65 - Bronze</title>
+    <product_type>Lighting &gt; Ceiling Spots</product_type>
+    <rrp_incl_vat>98.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>19</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/ventuno-mini-spot?variant=54855030538569</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/4AB370B9-D858-4266-B7AA-14E659202407.png?v=1784110311&amp;width=2000</image>
+    <description>IP65-rated recessed ceiling spot for bathrooms and shower rooms. Sealed against water and dust. The right choice where a standard downlight cannot safely be used.</description>
+  </item>
+  <item>
+    <ean>6152802854887</ean>
+    <title>VENTO Mini Spot IP65 - Black</title>
+    <product_type>Lighting &gt; Ceiling Spots</product_type>
+    <rrp_incl_vat>79.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>79</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/ventuno-mini-spot?variant=54855030505801</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/img-0300-1.jpg?v=1748288436&amp;width=2000</image>
+    <description>IP65-rated recessed ceiling spot for bathrooms and shower rooms. Sealed against water and dust. The right choice where a standard downlight cannot safely be used.</description>
   </item>
   <item>
     <ean>6152845297283</ean>
@@ -727,26 +749,26 @@
     <description>Recessed LED ceiling spot in Bronze, Black or White. Adjustable IP20 for accent lighting or fixed IP64 for bathrooms. Dimmable 2700K, driver included.</description>
   </item>
   <item>
-    <ean>6156041681624</ean>
-    <title>VENTO Mini Spot IP65 - Bronze</title>
-    <product_type>Lighting &gt; Ceiling Spots</product_type>
-    <rrp_incl_vat>98.00</rrp_incl_vat>
+    <ean>6152800266217</ean>
+    <title>GIO Chandelier - Brushed Brass</title>
+    <product_type>Lighting &gt; Chandeliers</product_type>
+    <rrp_incl_vat>1490.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>19</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/ventuno-mini-spot?variant=54855030538569</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/4AB370B9-D858-4266-B7AA-14E659202407.png?v=1784110311&amp;width=2000</image>
-    <description>IP65-rated recessed ceiling spot for bathrooms and shower rooms. Sealed against water and dust. The right choice where a standard downlight cannot safely be used.</description>
+    <stock_quantity>8</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/gio-chandelier?variant=52378897449289</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/fd2152-5l.jpg?v=1748285814&amp;width=2000</image>
+    <description>Linear alabaster pendant at 169cm in Brushed Brass or Smoke Bronze. Warm, natural stone light for dining tables and kitchen islands. Also available as Set of 4 and 10.</description>
   </item>
   <item>
-    <ean>6152802854887</ean>
-    <title>VENTO Mini Spot IP65 - Black</title>
-    <product_type>Lighting &gt; Ceiling Spots</product_type>
-    <rrp_incl_vat>79.00</rrp_incl_vat>
+    <ean>6152800098023</ean>
+    <title>GIO Chandelier - Smoke Bronze</title>
+    <product_type>Lighting &gt; Chandeliers</product_type>
+    <rrp_incl_vat>1490.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>81</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/ventuno-mini-spot?variant=54855030505801</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/img-0300-1.jpg?v=1748288436&amp;width=2000</image>
-    <description>IP65-rated recessed ceiling spot for bathrooms and shower rooms. Sealed against water and dust. The right choice where a standard downlight cannot safely be used.</description>
+    <stock_quantity>8</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/gio-chandelier?variant=52881761468745</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/gio-bronze_8ab3fad2-f395-4ff3-b07c-81c19e785e00.jpg?v=1769635837&amp;width=2000</image>
+    <description>Linear alabaster pendant at 169cm in Brushed Brass or Smoke Bronze. Warm, natural stone light for dining tables and kitchen islands. Also available as Set of 4 and 10.</description>
   </item>
   <item>
     <ean>6152803477405</ean>
@@ -780,28 +802,6 @@
     <url>https://www.thegrandcollection.eu/products/gaia-wall-light?variant=53352009236809</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/gaia-wall-light-primary.png?v=1783684702&amp;width=2000</image>
     <description>Adjustable bronze wall light in Small, Medium, and Large. Direct light precisely where you need it. Ideal for bedside reading, corridors, and living rooms.</description>
-  </item>
-  <item>
-    <ean>6152800266217</ean>
-    <title>GIO Chandelier - Brushed Brass</title>
-    <product_type>Lighting &gt; Chandeliers</product_type>
-    <rrp_incl_vat>1490.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>8</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/gio-chandelier?variant=52378897449289</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/fd2152-5l.jpg?v=1748285814&amp;width=2000</image>
-    <description>Linear alabaster pendant at 169cm in Brushed Brass or Smoke Bronze. Warm, natural stone light for dining tables and kitchen islands. Also available as Set of 4 and 10.</description>
-  </item>
-  <item>
-    <ean>6152800098023</ean>
-    <title>GIO Chandelier - Smoke Bronze</title>
-    <product_type>Lighting &gt; Chandeliers</product_type>
-    <rrp_incl_vat>1490.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>10</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/gio-chandelier?variant=52881761468745</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/gio-bronze_8ab3fad2-f395-4ff3-b07c-81c19e785e00.jpg?v=1769635837&amp;width=2000</image>
-    <description>Linear alabaster pendant at 169cm in Brushed Brass or Smoke Bronze. Warm, natural stone light for dining tables and kitchen islands. Also available as Set of 4 and 10.</description>
   </item>
   <item>
     <ean>6151157910989</ean>
@@ -1002,6 +1002,28 @@
     <description>Very low square coffee table at 100x100cm, 21cm height. In Charcoal Oak, Grey, or Taupe Lacquer. Designed in proportion with the MASSIMO Sofa system.</description>
   </item>
   <item>
+    <ean>6151115251208</ean>
+    <title>HUNTINGTON Chandelier - Gold</title>
+    <product_type>Lighting &gt; Chandeliers</product_type>
+    <rrp_incl_vat>550.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>18</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/huntington-chandelier?variant=52378665255241</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/x28-12sbr.jpg?v=1748283181&amp;width=2000</image>
+    <description>Classic multi-arm chandelier in brushed steel, available in Gold and Bronze. Warm candle-style shades for dining rooms and entrance halls that want genuine ceiling presence.</description>
+  </item>
+  <item>
+    <ean>6151115310332</ean>
+    <title>HUNTINGTON Chandelier - Bronze</title>
+    <product_type>Lighting &gt; Chandeliers</product_type>
+    <rrp_incl_vat>550.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>17</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/huntington-chandelier?variant=52733830299977</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/x28-12_3a54b789-5fd5-4b26-8337-f25d24a1fb38.jpg?v=1756927435&amp;width=2000</image>
+    <description>Classic multi-arm chandelier in brushed steel, available in Gold and Bronze. Warm candle-style shades for dining rooms and entrance halls that want genuine ceiling presence.</description>
+  </item>
+  <item>
     <ean>6152810729740</ean>
     <title>PEPE Motion Sensor Trimless</title>
     <product_type>Lighting &gt; Ceiling Spots</product_type>
@@ -1033,83 +1055,6 @@
     <url>https://www.thegrandcollection.eu/products/sole-mini-tube-spot?variant=52379066630473</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/sole-mini-spot.png?v=1768994058&amp;width=2000</image>
     <description>Compact tube ceiling spot in Bronze or Black for display shelves and accent lighting. Small, directional, and affordable. Pairs well with the Ultra Mini version.</description>
-  </item>
-  <item>
-    <ean>6151115251208</ean>
-    <title>HUNTINGTON Chandelier - Gold</title>
-    <product_type>Lighting &gt; Chandeliers</product_type>
-    <rrp_incl_vat>550.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>18</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/huntington-chandelier?variant=52378665255241</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/x28-12sbr.jpg?v=1748283181&amp;width=2000</image>
-    <description>Classic multi-arm chandelier in brushed steel, available in Gold and Bronze. Warm candle-style shades for dining rooms and entrance halls that want genuine ceiling presence.</description>
-  </item>
-  <item>
-    <ean>6151115310332</ean>
-    <title>HUNTINGTON Chandelier - Bronze</title>
-    <product_type>Lighting &gt; Chandeliers</product_type>
-    <rrp_incl_vat>550.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>18</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/huntington-chandelier?variant=52733830299977</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/x28-12_3a54b789-5fd5-4b26-8337-f25d24a1fb38.jpg?v=1756927435&amp;width=2000</image>
-    <description>Classic multi-arm chandelier in brushed steel, available in Gold and Bronze. Warm candle-style shades for dining rooms and entrance halls that want genuine ceiling presence.</description>
-  </item>
-  <item>
-    <ean>6152800907905</ean>
-    <title>AMALFI Coffee Table - Black Oiled Oak</title>
-    <product_type>Furniture &gt; Coffee Tables</product_type>
-    <rrp_incl_vat>1390.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>1</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/amalfi-coffee-table?variant=52378988151113</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/oeoo-20240731093500.jpg?v=1748287249&amp;width=2000</image>
-    <description>Round coffee table at 120cm diameter in Black Oiled Oak or Walnut. 34cm height. Pairs naturally with the AMALFI Dining Table in connected spaces.</description>
-  </item>
-  <item>
-    <ean>6152800906984</ean>
-    <title>AMALFI Coffee Table - Walnut</title>
-    <product_type>Furniture &gt; Coffee Tables</product_type>
-    <rrp_incl_vat>1480.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>0</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/amalfi-coffee-table?variant=52881651859785</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/amalfi-coffee-table-walnut-120cm.jpg?v=1748287273&amp;width=2000</image>
-    <description>Round coffee table at 120cm diameter in Black Oiled Oak or Walnut. 34cm height. Pairs naturally with the AMALFI Dining Table in connected spaces.</description>
-  </item>
-  <item>
-    <ean>6156056413449</ean>
-    <title>AMALFI Coffee Table - Light Oak</title>
-    <product_type>Furniture &gt; Coffee Tables</product_type>
-    <rrp_incl_vat>1490.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>4</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/amalfi-coffee-table?variant=54915567911241</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/oeoo-20240731093500.jpg?v=1748287249&amp;width=2000</image>
-    <description>Round coffee table at 120cm diameter in Black Oiled Oak or Walnut. 34cm height. Pairs naturally with the AMALFI Dining Table in connected spaces.</description>
-  </item>
-  <item>
-    <ean>6152807675609</ean>
-    <title>RISERVA Bookstand - ONYX</title>
-    <product_type>Decor &gt; Accessories</product_type>
-    <rrp_incl_vat>395.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>0</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/riserva-onyx-bookstand?variant=54561134674249</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/riserva.jpg?v=1762294117&amp;width=2000</image>
-    <description>Natural stone bookstand in Onyx or Silver Travertine. Holds a book open or stands as a sculptural object. Both stones are visually unique on every piece.</description>
-  </item>
-  <item>
-    <ean>6156041216222</ean>
-    <title>RISERVA Bookstand - SILVER TRAVERTINE</title>
-    <product_type>Decor &gt; Accessories</product_type>
-    <rrp_incl_vat>375.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>7</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/riserva-onyx-bookstand?variant=54561134707017</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/RISERVA_SILVER_TRAVERTINE_bookstand.jpg?v=1780845873&amp;width=2000</image>
-    <description>Natural stone bookstand in Onyx or Silver Travertine. Holds a book open or stands as a sculptural object. Both stones are visually unique on every piece.</description>
   </item>
   <item>
     <ean>6152800447432</ean>
@@ -1150,7 +1095,7 @@
     <product_type>Decor &gt; Accessories</product_type>
     <rrp_incl_vat>158.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>3</stock_quantity>
+    <stock_quantity>2</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/matteo-tray-square?variant=52881824350537</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/matteo-tray-square-53-taupe_543b683a-32cd-4e1c-9229-9fab37e670f2.png?v=1769343880&amp;width=2000</image>
     <description>Micro leather square tray in Beige, Etoupe, or Craie at 41 or 47cm. Structured, warm, and easy to maintain. Pairs with the MATTEO Round Tray.</description>
@@ -1238,10 +1183,76 @@
     <product_type>Decor &gt; Accessories</product_type>
     <rrp_incl_vat>218.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>10</stock_quantity>
+    <stock_quantity>9</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/matteo-tray-square?variant=55107587539273</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/WhatsApp_Image_2026-08-19_at_13.13.28_20.jpg?v=1787232045&amp;width=2000</image>
     <description>Micro leather square tray in Beige, Etoupe, or Craie at 41 or 47cm. Structured, warm, and easy to maintain. Pairs with the MATTEO Round Tray.</description>
+  </item>
+  <item>
+    <ean>6152800907905</ean>
+    <title>AMALFI Coffee Table - Black Oiled Oak</title>
+    <product_type>Furniture &gt; Coffee Tables</product_type>
+    <rrp_incl_vat>1390.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>1</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/amalfi-coffee-table?variant=52378988151113</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/oeoo-20240731093500.jpg?v=1748287249&amp;width=2000</image>
+    <description>Round coffee table at 120cm diameter in Black Oiled Oak or Walnut. 34cm height. Pairs naturally with the AMALFI Dining Table in connected spaces.</description>
+  </item>
+  <item>
+    <ean>6152800906984</ean>
+    <title>AMALFI Coffee Table - Walnut</title>
+    <product_type>Furniture &gt; Coffee Tables</product_type>
+    <rrp_incl_vat>1480.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>0</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/amalfi-coffee-table?variant=52881651859785</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/amalfi-coffee-table-walnut-120cm.jpg?v=1748287273&amp;width=2000</image>
+    <description>Round coffee table at 120cm diameter in Black Oiled Oak or Walnut. 34cm height. Pairs naturally with the AMALFI Dining Table in connected spaces.</description>
+  </item>
+  <item>
+    <ean>6156056413449</ean>
+    <title>AMALFI Coffee Table - Light Oak</title>
+    <product_type>Furniture &gt; Coffee Tables</product_type>
+    <rrp_incl_vat>1490.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>4</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/amalfi-coffee-table?variant=54915567911241</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/oeoo-20240731093500.jpg?v=1748287249&amp;width=2000</image>
+    <description>Round coffee table at 120cm diameter in Black Oiled Oak or Walnut. 34cm height. Pairs naturally with the AMALFI Dining Table in connected spaces.</description>
+  </item>
+  <item>
+    <ean>6152807675609</ean>
+    <title>RISERVA Bookstand - ONYX</title>
+    <product_type>Decor &gt; Accessories</product_type>
+    <rrp_incl_vat>395.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>0</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/riserva-onyx-bookstand?variant=54561134674249</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/riserva.jpg?v=1762294117&amp;width=2000</image>
+    <description>Natural stone bookstand in Onyx or Silver Travertine. Holds a book open or stands as a sculptural object. Both stones are visually unique on every piece.</description>
+  </item>
+  <item>
+    <ean>6156041216222</ean>
+    <title>RISERVA Bookstand - SILVER TRAVERTINE</title>
+    <product_type>Decor &gt; Accessories</product_type>
+    <rrp_incl_vat>375.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>7</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/riserva-onyx-bookstand?variant=54561134707017</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/RISERVA_SILVER_TRAVERTINE_bookstand.jpg?v=1780845873&amp;width=2000</image>
+    <description>Natural stone bookstand in Onyx or Silver Travertine. Holds a book open or stands as a sculptural object. Both stones are visually unique on every piece.</description>
+  </item>
+  <item>
+    <ean>6152800122162</ean>
+    <title>MARIO Pendant</title>
+    <product_type>Lighting &gt; Ceiling Lights</product_type>
+    <rrp_incl_vat>650.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>0</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/mario-pendant?variant=52378893189449</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/IMG-8960.png?v=1785472103&amp;width=2000</image>
+    <description>Alabaster and brushed brass pendant that pairs naturally with the MARIO Chandelier and Wall Light. Warm diffused stone light for a coherent natural stone scheme.</description>
   </item>
   <item>
     <ean>6152800789761</ean>
@@ -1286,17 +1297,6 @@
     <url>https://www.thegrandcollection.eu/products/sole-ultra-mini-tube-spot?variant=53508810768713</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/sole-mini-ultra-tube-spot-primary.png?v=1768993840&amp;width=2000</image>
     <description>The smallest tube spot in the collection. In Black or Bronze, for precise accent lighting of shelves and small objects where fitting size really matters.</description>
-  </item>
-  <item>
-    <ean>6152800122162</ean>
-    <title>MARIO Pendant</title>
-    <product_type>Lighting &gt; Ceiling Lights</product_type>
-    <rrp_incl_vat>650.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>0</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/mario-pendant?variant=52378893189449</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/IMG-8960.png?v=1785472103&amp;width=2000</image>
-    <description>Alabaster and brushed brass pendant that pairs naturally with the MARIO Chandelier and Wall Light. Warm diffused stone light for a coherent natural stone scheme.</description>
   </item>
   <item>
     <ean>6152835792729</ean>
@@ -1376,6 +1376,83 @@
     <description>Alabaster wall light in Medium and Large. Same material language as the MARIO Chandelier. Pairs naturally for a coherent natural stone lighting scheme.</description>
   </item>
   <item>
+    <ean>6152800151131</ean>
+    <title>OSAKA Wall Light - Medium</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>530.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>27</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/osaka-wall-light?variant=52881851220297</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/2796ade1-5006-4f65-97d7-ddac17e3c02c_1bdb381e-c10b-40f4-9cad-619c3e598b8a.png?v=1756928128&amp;width=2000</image>
+    <description>Organic alabaster wall light in Medium and Large. Hand-formed character, warm uneven glow. For rooms that want the natural quality of genuine stone on the wall.</description>
+  </item>
+  <item>
+    <ean>6152800116116</ean>
+    <title>OSAKA Wall Light - Large</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>670.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>51</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/osaka-wall-light?variant=52378901840201</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/fb2302-1l.jpg?v=1748285861&amp;width=2000</image>
+    <description>Organic alabaster wall light in Medium and Large. Hand-formed character, warm uneven glow. For rooms that want the natural quality of genuine stone on the wall.</description>
+  </item>
+  <item>
+    <ean>6156041044009</ean>
+    <title>RONDO Conical Wall Light - Smal 16</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>220.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>2</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/rondo-wall-light-bronze?variant=54560740540745</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/RONDOSBronze.jpg?v=1780835072&amp;width=2000</image>
+    <description>Japanese-inspired conical bronze wall light in Small, Medium, and Large. Focused soft beam, warm wall wash. Architectural calm in three considered sizes.</description>
+  </item>
+  <item>
+    <ean>6156041155194</ean>
+    <title>RONDO Conical Wall Light - Medium 22</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>270.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>6</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/rondo-wall-light-bronze?variant=54560740573513</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/RONDO_M.jpg?v=1780835270&amp;width=2000</image>
+    <description>Japanese-inspired conical bronze wall light in Small, Medium, and Large. Focused soft beam, warm wall wash. Architectural calm in three considered sizes.</description>
+  </item>
+  <item>
+    <ean>6156041160150</ean>
+    <title>RONDO Conical Wall Light - Large 28</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>320.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>9</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/rondo-wall-light-bronze?variant=54560740606281</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/RONDO_L.jpg?v=1780835288&amp;width=2000</image>
+    <description>Japanese-inspired conical bronze wall light in Small, Medium, and Large. Focused soft beam, warm wall wash. Architectural calm in three considered sizes.</description>
+  </item>
+  <item>
+    <ean>6152834067057</ean>
+    <title>Loro Chandelier Alabaster - 120 cm</title>
+    <product_type>Lighting &gt; Chandeliers</product_type>
+    <rrp_incl_vat>2390.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>5</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/loro-chandelier-alabaster?variant=54105015353673</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/100490-TheGrandInterior.jpg?v=1777497870&amp;width=2000</image>
+    <description>Linear alabaster pendant in 120cm or 180cm, bronze finish. Round alabaster diffusers glow warmly along the full length. For tables seating 4 to 8.</description>
+  </item>
+  <item>
+    <ean>6152834021066</ean>
+    <title>Loro Chandelier Alabaster - 180 cm</title>
+    <product_type>Lighting &gt; Chandeliers</product_type>
+    <rrp_incl_vat>3290.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>0</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/loro-chandelier-alabaster?variant=54105015386441</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/100513-TheGrandInterior.jpg?v=1775068545&amp;width=2000</image>
+    <description>Linear alabaster pendant in 120cm or 180cm, bronze finish. Round alabaster diffusers glow warmly along the full length. For tables seating 4 to 8.</description>
+  </item>
+  <item>
     <ean>6152849480421</ean>
     <title>ESSENZA Spot Light - Bronze</title>
     <product_type>Lighting &gt; Ceiling Spots</product_type>
@@ -1398,26 +1475,26 @@
     <description>Compact fixed-direction ceiling spot in Bronze or Black. A well-finished ambient downlight for living rooms and bedrooms without an adjustable premium.</description>
   </item>
   <item>
-    <ean>6152800151131</ean>
-    <title>OSAKA Wall Light - Medium</title>
+    <ean>6151108089061</ean>
+    <title>CASTELLO Wall Light - Medium</title>
     <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>530.00</rrp_incl_vat>
+    <rrp_incl_vat>750.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>30</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/osaka-wall-light?variant=52881851220297</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/2796ade1-5006-4f65-97d7-ddac17e3c02c_1bdb381e-c10b-40f4-9cad-619c3e598b8a.png?v=1756928128&amp;width=2000</image>
-    <description>Organic alabaster wall light in Medium and Large. Hand-formed character, warm uneven glow. For rooms that want the natural quality of genuine stone on the wall.</description>
+    <stock_quantity>20</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/castello-wall-light?variant=52881689379145</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/img-0778_33844a0c-fa0c-4d82-9420-ba124302db2c.jpg?v=1769634792&amp;width=2000</image>
+    <description>Large alabaster wall light in Medium and Large. Substantial enough to dominate a wall with warm, generous stone light. A statement piece for serious rooms.</description>
   </item>
   <item>
-    <ean>6152800116116</ean>
-    <title>OSAKA Wall Light - Large</title>
+    <ean>6151108078010</ean>
+    <title>CASTELLO Wall Light - Large</title>
     <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>670.00</rrp_incl_vat>
+    <rrp_incl_vat>990.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>52</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/osaka-wall-light?variant=52378901840201</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/fb2302-1l.jpg?v=1748285861&amp;width=2000</image>
-    <description>Organic alabaster wall light in Medium and Large. Hand-formed character, warm uneven glow. For rooms that want the natural quality of genuine stone on the wall.</description>
+    <stock_quantity>60</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/castello-wall-light?variant=52378876215625</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/castello-l.jpg?v=1748285406&amp;width=2000</image>
+    <description>Large alabaster wall light in Medium and Large. Substantial enough to dominate a wall with warm, generous stone light. A statement piece for serious rooms.</description>
   </item>
   <item>
     <ean>6151135721705</ean>
@@ -1462,50 +1539,6 @@
     <url>https://www.thegrandcollection.eu/products/gary-wall-lamp-bulgary?variant=54248882340169</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/GarywalllightM.jpg?v=1776861362&amp;width=2000</image>
     <description>Tube-form Calacatta Viola Vagli marble wall lamp in Small and Large. Architectural and linear. Rare stone with violet veining in a more structural form.</description>
-  </item>
-  <item>
-    <ean>6152834067057</ean>
-    <title>Loro Chandelier Alabaster - 120 cm</title>
-    <product_type>Lighting &gt; Chandeliers</product_type>
-    <rrp_incl_vat>2390.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>5</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/loro-chandelier-alabaster?variant=54105015353673</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/100490-TheGrandInterior.jpg?v=1777497870&amp;width=2000</image>
-    <description>Linear alabaster pendant in 120cm or 180cm, bronze finish. Round alabaster diffusers glow warmly along the full length. For tables seating 4 to 8.</description>
-  </item>
-  <item>
-    <ean>6152834021066</ean>
-    <title>Loro Chandelier Alabaster - 180 cm</title>
-    <product_type>Lighting &gt; Chandeliers</product_type>
-    <rrp_incl_vat>3290.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>0</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/loro-chandelier-alabaster?variant=54105015386441</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/100513-TheGrandInterior.jpg?v=1775068545&amp;width=2000</image>
-    <description>Linear alabaster pendant in 120cm or 180cm, bronze finish. Round alabaster diffusers glow warmly along the full length. For tables seating 4 to 8.</description>
-  </item>
-  <item>
-    <ean>6151108089061</ean>
-    <title>CASTELLO Wall Light - Medium</title>
-    <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>750.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>22</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/castello-wall-light?variant=52881689379145</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/img-0778_33844a0c-fa0c-4d82-9420-ba124302db2c.jpg?v=1769634792&amp;width=2000</image>
-    <description>Large alabaster wall light in Medium and Large. Substantial enough to dominate a wall with warm, generous stone light. A statement piece for serious rooms.</description>
-  </item>
-  <item>
-    <ean>6151108078010</ean>
-    <title>CASTELLO Wall Light - Large</title>
-    <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>990.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>66</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/castello-wall-light?variant=52378876215625</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/castello-l.jpg?v=1748285406&amp;width=2000</image>
-    <description>Large alabaster wall light in Medium and Large. Substantial enough to dominate a wall with warm, generous stone light. A statement piece for serious rooms.</description>
   </item>
   <item>
     <ean>6151118826823</ean>
@@ -1605,39 +1638,6 @@
     <url>https://www.thegrandcollection.eu/products/douglas-wall-lamp-alabaster?variant=55486611063113</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/76371867-5440-4CFB-96A7-D6C5D7933FE42.png?v=1790853606&amp;width=2000</image>
     <description>Alabaster and bronze wall light with a softly translucent stone shade and a G9 socket. Quiet, atmospheric light for hallways and bedrooms.</description>
-  </item>
-  <item>
-    <ean>6156041044009</ean>
-    <title>RONDO Conical Wall Light - Smal 16</title>
-    <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>220.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>2</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/rondo-wall-light-bronze?variant=54560740540745</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/RONDOSBronze.jpg?v=1780835072&amp;width=2000</image>
-    <description>Japanese-inspired conical bronze wall light in Small, Medium, and Large. Focused soft beam, warm wall wash. Architectural calm in three considered sizes.</description>
-  </item>
-  <item>
-    <ean>6156041155194</ean>
-    <title>RONDO Conical Wall Light - Medium 22</title>
-    <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>270.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>6</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/rondo-wall-light-bronze?variant=54560740573513</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/RONDO_M.jpg?v=1780835270&amp;width=2000</image>
-    <description>Japanese-inspired conical bronze wall light in Small, Medium, and Large. Focused soft beam, warm wall wash. Architectural calm in three considered sizes.</description>
-  </item>
-  <item>
-    <ean>6156041160150</ean>
-    <title>RONDO Conical Wall Light - Large 28</title>
-    <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>320.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>9</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/rondo-wall-light-bronze?variant=54560740606281</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/RONDO_L.jpg?v=1780835288&amp;width=2000</image>
-    <description>Japanese-inspired conical bronze wall light in Small, Medium, and Large. Focused soft beam, warm wall wash. Architectural calm in three considered sizes.</description>
   </item>
   <item>
     <ean>6152801017009</ean>
@@ -1942,7 +1942,7 @@
     <product_type>Furniture &gt; Side Tables</product_type>
     <rrp_incl_vat>430.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>4</stock_quantity>
+    <stock_quantity>2</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/mateu-side-table?variant=52378879820105</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/mateu-table.png?v=1759504735&amp;width=2000</image>
     <description>Slim bronze side table at 35x35cm, 57cm height. Holds a glass, a candle, or a lamp without taking up floor space. An accent piece that earns its place.</description>
@@ -2355,6 +2355,28 @@
     <description>Table lamp in stainless steel, glass, and marble. Three materials, none dominating. A refined, layered lamp for bedside tables and living room consoles.</description>
   </item>
   <item>
+    <ean>6152815966997</ean>
+    <title>AMARONE Wall Light - 2 opal glass</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>190.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>3</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/amarone-wall-light?variant=55520592298313</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/396B0FD9-9057-4A8F-8668-915DFAE99D75.png?v=1791194172&amp;width=2000</image>
+    <description>Opal milk glass wall light on a bronze base, with two or three globes and G4 sockets. Soft, diffused light for hallways and bedrooms.</description>
+  </item>
+  <item>
+    <ean>6152815954987</ean>
+    <title>AMARONE Wall Light - 3 opal glass</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>220.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>2</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/amarone-wall-light?variant=55520592331081</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/09765D7D-141D-42C7-AB5B-10DFB265CC04.png?v=1791194178&amp;width=2000</image>
+    <description>Opal milk glass wall light on a bronze base, with two or three globes and G4 sockets. Soft, diffused light for hallways and bedrooms.</description>
+  </item>
+  <item>
     <ean>6156048199108</ean>
     <title>OSAKA Wall Light Lavastone - Medium</title>
     <product_type>Lighting &gt; Wall Lights</product_type>
@@ -2404,7 +2426,7 @@
     <product_type>Lighting &gt; Wall Lights</product_type>
     <rrp_incl_vat>990.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>37</stock_quantity>
+    <stock_quantity>35</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/onice-wall-light-bronze-onyx?variant=54159593636169</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/DF0805C3-7A06-4D9E-8D42-EBB5DFB7F0282.png?v=1775631831&amp;width=2000</image>
     <description>Round bronze wall light with a natural onyx inlay. Warm, unique stone light through natural veining. A jewellery-like statement for living rooms and bedrooms.</description>
@@ -2529,6 +2551,50 @@
     <url>https://www.thegrandcollection.eu/products/oyster-side-table?variant=52379044020553</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/oyster-side-table-bronze-2.jpg?v=1764325634&amp;width=2000</image>
     <description>Round side table at 45x44cm, 50cm height with electro-plated finish in Gun Metal or Bronze. A compact, high-quality metallic accent beside any seat.</description>
+  </item>
+  <item>
+    <ean>6156057769798</ean>
+    <title>LIO Wall Light - Bronze / Medium</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>690.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>0</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/lio-wall-light?variant=52881784996169</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/lio-l-on.jpg?v=1748287700&amp;width=2000</image>
+    <description>Refined arm-mounted alabaster wall light in Bronze or Brushed Brass, Medium or Large. One of the most considered stone wall lights in the collection.</description>
+  </item>
+  <item>
+    <ean>6156057995944</ean>
+    <title>LIO Wall Light - Bronze / Large</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>1190.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>0</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/lio-wall-light?variant=52379018953033</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/lio-l-on.jpg?v=1748287700&amp;width=2000</image>
+    <description>Refined arm-mounted alabaster wall light in Bronze or Brushed Brass, Medium or Large. One of the most considered stone wall lights in the collection.</description>
+  </item>
+  <item>
+    <ean>6152802849876</ean>
+    <title>LIO Wall Light - Brushed brass / Medium</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>690.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>1</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/lio-wall-light?variant=54049674625353</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/lio-l-off.jpg?v=1748287700&amp;width=2000</image>
+    <description>Refined arm-mounted alabaster wall light in Bronze or Brushed Brass, Medium or Large. One of the most considered stone wall lights in the collection.</description>
+  </item>
+  <item>
+    <ean>6152802892858</ean>
+    <title>LIO Wall Light - Brushed brass / Large</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>1190.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>29</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/lio-wall-light?variant=54049674658121</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/lio-l-off.jpg?v=1748287700&amp;width=2000</image>
+    <description>Refined arm-mounted alabaster wall light in Bronze or Brushed Brass, Medium or Large. One of the most considered stone wall lights in the collection.</description>
   </item>
   <item>
     <ean>6152801389304</ean>
@@ -2773,28 +2839,6 @@
     <description>Exceptionally flat coffee table at 100x100cm, 20cm height. Available in Cafe au Lait Marble or Smoke Wood. Keeps the living room feeling open and uncluttered.</description>
   </item>
   <item>
-    <ean>6152815966997</ean>
-    <title>AMARONE Wall Light - 2 opal glass</title>
-    <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>190.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>3</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/amarone-wall-light?variant=55520592298313</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/396B0FD9-9057-4A8F-8668-915DFAE99D75.png?v=1791194172&amp;width=2000</image>
-    <description>Opal milk glass wall light on a bronze base, with two or three globes and G4 sockets. Soft, diffused light for hallways and bedrooms.</description>
-  </item>
-  <item>
-    <ean>6152815954987</ean>
-    <title>AMARONE Wall Light - 3 opal glass</title>
-    <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>220.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>2</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/amarone-wall-light?variant=55520592331081</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/09765D7D-141D-42C7-AB5B-10DFB265CC04.png?v=1791194178&amp;width=2000</image>
-    <description>Opal milk glass wall light on a bronze base, with two or three globes and G4 sockets. Soft, diffused light for hallways and bedrooms.</description>
-  </item>
-  <item>
     <ean>6152816373398</ean>
     <title>RIOJA Rug - Warm Beige / 240x280cm</title>
     <product_type>Decor &gt; Rugs</product_type>
@@ -3026,6 +3070,17 @@
     <description>Metal and cloudy glass wall light for soft, even ambient wall lighting. No visible light source or hotspot. A composed, unfussy fitting for any room.</description>
   </item>
   <item>
+    <ean>6152810919974</ean>
+    <title>CHURCHILL SMALL Chandelier</title>
+    <product_type>Lighting &gt; Chandeliers</product_type>
+    <rrp_incl_vat>430.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>9</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/churchill-small-chandelier?variant=53262133100873</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/2j9a1013.jpg?v=1762293818&amp;width=2000</image>
+    <description>Compact globe pendant in Bronze with Milk Glass for lower ceilings and smaller dining areas. The same timeless CHURCHILL aesthetic in a smaller, well-proportioned scale.</description>
+  </item>
+  <item>
     <ean>6152817594501</ean>
     <title>VALERIA Bar Chair - Low</title>
     <product_type>Furniture &gt; Bar Stools</product_type>
@@ -3048,48 +3103,15 @@
     <description>Hand-stitched Italian luxury fabric bar stool in low and high seat heights. Same craftsmanship as the VALERIA Dining Chair, raised to counter level.</description>
   </item>
   <item>
-    <ean>6156057769798</ean>
-    <title>LIO Wall Light - Bronze / Medium</title>
-    <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>690.00</rrp_incl_vat>
+    <ean>6152803634655</ean>
+    <title>MONTU Side Table</title>
+    <product_type>Furniture &gt; Side Tables</product_type>
+    <rrp_incl_vat>450.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>1</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/lio-wall-light?variant=52881784996169</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/lio-l-on.jpg?v=1748287700&amp;width=2000</image>
-    <description>Refined arm-mounted alabaster wall light in Bronze or Brushed Brass, Medium or Large. One of the most considered stone wall lights in the collection.</description>
-  </item>
-  <item>
-    <ean>6156057995944</ean>
-    <title>LIO Wall Light - Bronze / Large</title>
-    <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>1190.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>0</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/lio-wall-light?variant=52379018953033</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/lio-l-on.jpg?v=1748287700&amp;width=2000</image>
-    <description>Refined arm-mounted alabaster wall light in Bronze or Brushed Brass, Medium or Large. One of the most considered stone wall lights in the collection.</description>
-  </item>
-  <item>
-    <ean>6152802849876</ean>
-    <title>LIO Wall Light - Brushed brass / Medium</title>
-    <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>690.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>1</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/lio-wall-light?variant=54049674625353</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/lio-l-off.jpg?v=1748287700&amp;width=2000</image>
-    <description>Refined arm-mounted alabaster wall light in Bronze or Brushed Brass, Medium or Large. One of the most considered stone wall lights in the collection.</description>
-  </item>
-  <item>
-    <ean>6152802892858</ean>
-    <title>LIO Wall Light - Brushed brass / Large</title>
-    <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>1190.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>29</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/lio-wall-light?variant=54049674658121</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/lio-l-off.jpg?v=1748287700&amp;width=2000</image>
-    <description>Refined arm-mounted alabaster wall light in Bronze or Brushed Brass, Medium or Large. One of the most considered stone wall lights in the collection.</description>
+    <stock_quantity>13</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/montu-side-table?variant=52379040612681</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/montu-u-table-back.jpg?v=1759504838&amp;width=2000</image>
+    <description>U-shaped bronze side table at 35x40cm, 50cm height. Slides over the sofa arm to put a surface exactly where you need it without using floor space.</description>
   </item>
   <item>
     <ean>6152802983945</ean>
@@ -3477,6 +3499,17 @@
     <description>150cm console in Craie micro leather with softly curved side supports. 40cm deep, 75cm high. A sculptural, tactile surface for hallways and living rooms.</description>
   </item>
   <item>
+    <ean>6156048529516</ean>
+    <title>PALM Cabinet</title>
+    <product_type>Furniture &gt; Cabinets</product_type>
+    <rrp_incl_vat>2950.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>6</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/palm-cabinet?variant=55133459546441</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Palmconsole.jpg?v=1787643861&amp;width=2000</image>
+    <description>Leather-wrapped cabinet with six drawers, stitched edges and matching leather handles. 150 cm wide, fully handcrafted in micro leather.</description>
+  </item>
+  <item>
     <ean>6156055952956</ean>
     <title>AMALFI Round Side Table - Black Oiled Oak</title>
     <product_type>Furniture &gt; Side Tables</product_type>
@@ -3774,17 +3807,6 @@
     <description>Large sculptural chandelier with a bronze aluminium frame and alabaster shades. Architecture and natural stone in one ceiling piece. For rooms that demand a focal point.</description>
   </item>
   <item>
-    <ean>6152810919974</ean>
-    <title>CHURCHILL SMALL Chandelier</title>
-    <product_type>Lighting &gt; Chandeliers</product_type>
-    <rrp_incl_vat>430.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>10</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/churchill-small-chandelier?variant=53262133100873</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/2j9a1013.jpg?v=1762293818&amp;width=2000</image>
-    <description>Compact globe pendant in Bronze with Milk Glass for lower ceilings and smaller dining areas. The same timeless CHURCHILL aesthetic in a smaller, well-proportioned scale.</description>
-  </item>
-  <item>
     <ean>6152810770766</ean>
     <title>GREGORIO Ottoman</title>
     <product_type>Furniture &gt; Ottomans</product_type>
@@ -3816,17 +3838,6 @@
     <url>https://www.thegrandcollection.eu/products/aldo-nightstand?variant=52678538789193</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/aldo-nightstand-walnut.png?v=1748288126&amp;width=2000</image>
     <description>Clean veneer nightstand in Charcoal Oak or Walnut. Matches the ALDO Sideboard exactly for a coherent storage scheme across bedroom and living room.</description>
-  </item>
-  <item>
-    <ean>6152803634655</ean>
-    <title>MONTU Side Table</title>
-    <product_type>Furniture &gt; Side Tables</product_type>
-    <rrp_incl_vat>450.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>18</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/montu-side-table?variant=52379040612681</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/montu-u-table-back.jpg?v=1759504838&amp;width=2000</image>
-    <description>U-shaped bronze side table at 35x40cm, 50cm height. Slides over the sofa arm to put a surface exactly where you need it without using floor space.</description>
   </item>
   <item>
     <ean>6152803588569</ean>
@@ -3999,7 +4010,7 @@
     <product_type>Decor &gt; Mirrors</product_type>
     <rrp_incl_vat>1490.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>26</stock_quantity>
+    <stock_quantity>25</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/flavio-mirror-rectangular?variant=53421879165257</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/sa508.jpg?v=1748285080&amp;width=2000</image>
     <description>Tall rectangular mirror in an aged bronze finish in 120 or 190cm height. Warm, slightly antiqued quality for entrance halls and dressing areas.</description>
@@ -4166,7 +4177,7 @@
     <currency>EUR</currency>
     <stock_quantity>9</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/carlo-ring-chandelier-set-of-4?variant=52378771980617</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/img-6873-2.jpg?v=1748284261&amp;width=2000</image>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Carloringbronze.png?v=1795599867&amp;width=2000</image>
     <description>Four circular ring pendants in brushed steel, each emitting a continuous line of light. An architectural cluster installation for contemporary dining rooms and open-plan spaces.</description>
   </item>
   <item>
@@ -4410,17 +4421,6 @@
     <url>https://www.thegrandcollection.eu/products/palm-nightstand?variant=55133979509065</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/IMG_5556.jpg?v=1787648782&amp;width=2000</image>
     <description>Oval nightstand in wood and micro leather with stitched edges. 70x45cm, 44cm height. Soft, tailored storage at the bedside. Pairs with the PALM Cabinet.</description>
-  </item>
-  <item>
-    <ean>6156048529516</ean>
-    <title>PALM Cabinet</title>
-    <product_type>Furniture &gt; Cabinets</product_type>
-    <rrp_incl_vat>2950.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>7</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/palm-cabinet?variant=55133459546441</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Palmconsole.jpg?v=1787643861&amp;width=2000</image>
-    <description>Leather-wrapped cabinet with six drawers, stitched edges and matching leather handles. 150 cm wide, fully handcrafted in micro leather.</description>
   </item>
   <item>
     <ean>6156049078037</ean>
@@ -4742,6 +4742,17 @@
     <description>Composed coffee table with a structured base and clean top plane. Pairs with the TRAVERO Side Table. A piece that supports the room rather than defines it.</description>
   </item>
   <item>
+    <ean>6152804957999</ean>
+    <title>CUBO Nightstand Drawers</title>
+    <product_type>Furniture &gt; Nightstands</product_type>
+    <rrp_incl_vat>790.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>10</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/cubo-nightstand-drawers?variant=53610081485129</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/0a307bdccfad139f3e8a703249726557-TheGrandInterior.jpg?v=1767563077&amp;width=2000</image>
+    <description>Compact cubic nightstand with drawers for practical bedside storage in a calm, undemanding form. Pairs with the CUBO Chest of Drawers.</description>
+  </item>
+  <item>
     <ean>6152805446461</ean>
     <title>Atrium Chandelier</title>
     <product_type>Lighting &gt; Chandeliers</product_type>
@@ -4771,7 +4782,7 @@
     <currency>EUR</currency>
     <stock_quantity>3</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/chrystal-chandelier-round-long?variant=53528426611017</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/chrystal-chandelier-long_4ae14485-67d6-4980-99d6-507728e8910a.jpg?v=1756927026&amp;width=2000</image>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Chrystal_long_chandelier.png?v=1795603397&amp;width=2000</image>
     <description>Long-drop round crystal chandelier for high ceilings and double-height spaces. Natural crystal refracts light across walls and ceiling with dramatic vertical scale.</description>
   </item>
   <item>
@@ -4782,7 +4793,7 @@
     <currency>EUR</currency>
     <stock_quantity>5</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/chrystal-chandelier-round-short?variant=53528426348873</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/1-black.jpg?v=1748285730&amp;width=2000</image>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Chrystal_chandelier.png?v=1795603064&amp;width=2000</image>
     <description>Compact round crystal chandelier for standard ceiling heights. Natural crystal refracts and scatters warm light. A refined alternative to the full CHRYSTAL cluster.</description>
   </item>
   <item>
@@ -5055,7 +5066,7 @@
     <product_type>Lighting &gt; Chandeliers</product_type>
     <rrp_incl_vat>2590.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>4</stock_quantity>
+    <stock_quantity>1</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/sereno-chandelier?variant=52881881989449</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/sereno-bronze-off_cf58b58a-4fed-417c-9a14-c54c80a90e0c.jpg?v=1756928306&amp;width=2000</image>
     <description>Alabaster pendant in Antique Brass or Bronze with warm, diffused stone light. Clean and composed for dining rooms and living areas that want natural stone without drama.</description>
@@ -5066,7 +5077,7 @@
     <product_type>Lighting &gt; Chandeliers</product_type>
     <rrp_incl_vat>3990.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>8</stock_quantity>
+    <stock_quantity>6</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/sereno-chandelier?variant=55042095808841</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/image1.png?v=1786482540&amp;width=2000</image>
     <description>Alabaster pendant in Antique Brass or Bronze with warm, diffused stone light. Clean and composed for dining rooms and living areas that want natural stone without drama.</description>
@@ -5407,7 +5418,7 @@
     <product_type>Furniture &gt; Coffee Tables</product_type>
     <rrp_incl_vat>3250.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>6</stock_quantity>
+    <stock_quantity>5</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/stefano-coffee-table?variant=52378804650313</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/stefano-table.jpg?v=1748284498&amp;width=2000</image>
     <description>Coffee table with leather-wrapped base and Oreo Marble top. 135x100cm. Dark, dramatic natural stone for living rooms that want a bold material statement.</description>
@@ -5517,7 +5528,7 @@
     <product_type>Lighting &gt; Table Lamps</product_type>
     <rrp_incl_vat>450.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>42</stock_quantity>
+    <stock_quantity>39</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/chavelli-table-lamp?variant=52733811097929</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/t184-5brn-2_15ce7416-baf8-4372-902d-06a2eff056bf.jpg?v=1769635101&amp;width=2000</image>
     <description>Hand-burnished brass table lamp with glass shade in Brushed Brass or Bronze. A tactile, warm metal finish that improves in character with use.</description>
@@ -5550,7 +5561,7 @@
     <product_type>Lighting &gt; Table Lamps</product_type>
     <rrp_incl_vat>450.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>10</stock_quantity>
+    <stock_quantity>9</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/giorgia-table-lamp?variant=52378636190025</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/giorgia-table-lamp.jpg?v=1748282754&amp;width=2000</image>
     <description>Marble and glass table lamp in Black, Grey, or White Marble. Each base is unique natural stone. Warm, diffused light for bedside tables and consoles.</description>
@@ -5583,7 +5594,7 @@
     <product_type>Decor &gt; Mirrors</product_type>
     <rrp_incl_vat>1450.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>8</stock_quantity>
+    <stock_quantity>4</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/gianni-mirror?variant=52378635338057</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/gunblack-mirror.jpg?v=1748282734&amp;width=2000</image>
     <description>Large circular smoke glass mirror in Gun Black, 120 or 160cm. Reflections are softened and tinted, adding atmospheric depth no clear mirror can replicate.</description>
@@ -5598,6 +5609,72 @@
     <url>https://www.thegrandcollection.eu/products/gianni-mirror?variant=52881759502665</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/gunblack-mirror.jpg?v=1748282734&amp;width=2000</image>
     <description>Large circular smoke glass mirror in Gun Black, 120 or 160cm. Reflections are softened and tinted, adding atmospheric depth no clear mirror can replicate.</description>
+  </item>
+  <item>
+    <ean>9501221339234</ean>
+    <title>VIGO Dining Chair</title>
+    <product_type>Furniture &gt; Dining Chairs</product_type>
+    <rrp_incl_vat>1690.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>0</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/vigo-dining-chair?variant=56105383264585</url>
+    <image />
+    <description />
+  </item>
+  <item>
+    <ean>9502143185749</ean>
+    <title>NILO Tube spotlight Bronze</title>
+    <product_type />
+    <rrp_incl_vat>138.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>0</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/nilo-tube-spotlight-bronze?variant=56102720635209</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/18111.png?v=1795605031&amp;width=2000</image>
+    <description />
+  </item>
+  <item>
+    <ean>9504135432367</ean>
+    <title>CHRYSTAL Pendant Light</title>
+    <product_type>Lighting &gt; Ceiling Lights</product_type>
+    <rrp_incl_vat>390.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>0</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/chrystal-pendant-light?variant=56100291051849</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Chrystalpendantwitteachtergrond.png?v=1795601033&amp;width=2000</image>
+    <description />
+  </item>
+  <item>
+    <ean>9504444643485</ean>
+    <title>PALAZZO Wall Light</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>730.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>0</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/palazzo-wall-light?variant=56098009776457</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Palazzowalllight.png?v=1795598729&amp;width=2000</image>
+    <description />
+  </item>
+  <item>
+    <ean>9501223847270</ean>
+    <title>MODULO Wall Light Bronze Alabaster</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>990.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>0</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/modulo-wall-light-bronze-alabaster?variant=56096166576457</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/MODULO-Shopify.jpg?v=1795594308&amp;width=2000</image>
+    <description />
+  </item>
+  <item>
+    <ean>9501944877341</ean>
+    <title>RIVELLO Wall Light Alabaster</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>890.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <stock_quantity>0</stock_quantity>
+    <url>https://www.thegrandcollection.eu/products/rivello-wall-light-alabaster?variant=56094847697225</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Rivellowalllight.png?v=1795593425&amp;width=2000</image>
+    <description />
   </item>
   <item>
     <ean>9501329319848</ean>
@@ -6997,17 +7074,6 @@
     <description>Chest of drawers in a clean cubic format for bedrooms and living rooms. Organised, calm, and undemanding. Pairs with the CUBO Nightstand Drawers.</description>
   </item>
   <item>
-    <ean>6152804957999</ean>
-    <title>CUBO Nightstand Drawers</title>
-    <product_type>Furniture &gt; Nightstands</product_type>
-    <rrp_incl_vat>790.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>12</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/cubo-nightstand-drawers?variant=53610081485129</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/0a307bdccfad139f3e8a703249726557-TheGrandInterior.jpg?v=1767563077&amp;width=2000</image>
-    <description>Compact cubic nightstand with drawers for practical bedside storage in a calm, undemanding form. Pairs with the CUBO Chest of Drawers.</description>
-  </item>
-  <item>
     <ean>6152805655610</ean>
     <title>CORPO Coffee Table High</title>
     <product_type>Furniture &gt; Coffee Tables</product_type>
@@ -7574,7 +7640,7 @@
     <product_type>Furniture &gt; Coffee Tables</product_type>
     <rrp_incl_vat>2498.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>5</stock_quantity>
+    <stock_quantity>2</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/brio-coffee-table?variant=52379153006921</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/brio-table-2.jpg?v=1748289066&amp;width=2000</image>
     <description>Square coffee table with White Marble top and wood base. 120x120cm, 35cm height. Pairs naturally with the BRIO Dining Table in connected spaces.</description>
@@ -9125,7 +9191,7 @@
     <product_type>Decor &gt; Mirrors</product_type>
     <rrp_incl_vat>2290.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>10</stock_quantity>
+    <stock_quantity>8</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/florence-mirror?variant=52378862354761</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/sa518l.jpg?v=1748285114&amp;width=2000</image>
     <description>Large arched aged bronze mirror. Classically proportioned, warm in finish, and significant in scale. A statement piece for entrance halls and master bedrooms.</description>
@@ -9345,7 +9411,7 @@
     <product_type>Lighting &gt; Ceiling Lights</product_type>
     <rrp_incl_vat>490.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <stock_quantity>32</stock_quantity>
+    <stock_quantity>21</stock_quantity>
     <url>https://www.thegrandcollection.eu/products/gustavo-pendant?variant=52378801209673</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/the-grand-lighting-2.png?v=1748284449&amp;width=2000</image>
     <description>Wide disc-shaped alabaster pendant for dining tables where broad, even stone light coverage is the priority. One of the most generous single pendants in the collection.</description>
@@ -9679,28 +9745,6 @@
     <url>https://www.thegrandcollection.eu/products/xavier-console-table?variant=52378652311881</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/gavi-console-table-1.jpg?v=1748282970&amp;width=2000</image>
     <description>Slim console in metal and Smoke Wood veneer at 160cm. Clean, architectural, and calm. A composed surface for hallways and behind sofas.</description>
-  </item>
-  <item>
-    <ean>6151110677645</ean>
-    <title>SALERNO Side Table Hexagon - Small</title>
-    <product_type>Furniture &gt; Side Tables</product_type>
-    <rrp_incl_vat>280.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>0</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/salerno-side-table-hexagon?variant=52733850321225</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/salerno-2-side-table-1_f49f27a4-ba58-4968-a4f1-51a0b55f993e.jpg?v=1756928291&amp;width=2000</image>
-    <description>Hexagonal side table in wood veneer MDF, available in Small and Large. A geometric accent for living rooms that want something a little different.</description>
-  </item>
-  <item>
-    <ean>6151112872871</ean>
-    <title>SALERNO Side Table Hexagon - Large</title>
-    <product_type>Furniture &gt; Side Tables</product_type>
-    <rrp_incl_vat>420.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <stock_quantity>4</stock_quantity>
-    <url>https://www.thegrandcollection.eu/products/salerno-side-table-hexagon?variant=52378650116425</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/salerno-coffee-table-hexagon-wood-1-jpg.jpg?v=1748282923&amp;width=2000</image>
-    <description>Hexagonal side table in wood veneer MDF, available in Small and Large. A geometric accent for living rooms that want something a little different.</description>
   </item>
   <item>
     <ean>6151129487457</ean>
