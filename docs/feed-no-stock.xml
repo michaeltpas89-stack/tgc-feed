@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<products generated="2026-11-25T13:25:54Z" count="892">
+<products generated="2026-11-26T13:04:28Z" count="902">
   <item>
     <ean>6151133859868</ean>
     <title>TUBES Wall Light - 20cm / Bronze</title>
@@ -911,56 +911,6 @@
     <description>Very low square coffee table at 100x100cm, 21cm height. In Charcoal Oak, Grey, or Taupe Lacquer. Designed in proportion with the MASSIMO Sofa system.</description>
   </item>
   <item>
-    <ean>6151115251208</ean>
-    <title>HUNTINGTON Chandelier - Gold</title>
-    <product_type>Lighting &gt; Chandeliers</product_type>
-    <rrp_incl_vat>550.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/huntington-chandelier?variant=52378665255241</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/x28-12sbr.jpg?v=1748283181&amp;width=2000</image>
-    <description>Classic multi-arm chandelier in brushed steel, available in Gold and Bronze. Warm candle-style shades for dining rooms and entrance halls that want genuine ceiling presence.</description>
-  </item>
-  <item>
-    <ean>6151115310332</ean>
-    <title>HUNTINGTON Chandelier - Bronze</title>
-    <product_type>Lighting &gt; Chandeliers</product_type>
-    <rrp_incl_vat>550.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/huntington-chandelier?variant=52733830299977</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/x28-12_3a54b789-5fd5-4b26-8337-f25d24a1fb38.jpg?v=1756927435&amp;width=2000</image>
-    <description>Classic multi-arm chandelier in brushed steel, available in Gold and Bronze. Warm candle-style shades for dining rooms and entrance halls that want genuine ceiling presence.</description>
-  </item>
-  <item>
-    <ean>6152810729740</ean>
-    <title>PEPE Motion Sensor Trimless</title>
-    <product_type>Lighting &gt; Ceiling Spots</product_type>
-    <rrp_incl_vat>139.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/pepe-motion-sensor-trimless?variant=53262131036489</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/pepe-trimless-2.jpg?v=1762293770&amp;width=2000</image>
-    <description>Flush ceiling motion sensor with no visible frame or border. The right choice when automatic lighting activation is needed without interrupting the ceiling surface.</description>
-  </item>
-  <item>
-    <ean>6152805556566</ean>
-    <title>SOLE Mini Tube Spot - Bronze</title>
-    <product_type>Lighting &gt; Ceiling Spots</product_type>
-    <rrp_incl_vat>99.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/sole-mini-tube-spot?variant=53508809982281</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/sole-mini-tube-spot-primary.png?v=1768994058&amp;width=2000</image>
-    <description>Compact tube ceiling spot in Bronze or Black for display shelves and accent lighting. Small, directional, and affordable. Pairs well with the Ultra Mini version.</description>
-  </item>
-  <item>
-    <ean>6152802890809</ean>
-    <title>SOLE Mini Tube Spot - Black</title>
-    <product_type>Lighting &gt; Ceiling Spots</product_type>
-    <rrp_incl_vat>99.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/sole-mini-tube-spot?variant=52379066630473</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/sole-mini-spot.png?v=1768994058&amp;width=2000</image>
-    <description>Compact tube ceiling spot in Bronze or Black for display shelves and accent lighting. Small, directional, and affordable. Pairs well with the Ultra Mini version.</description>
-  </item>
-  <item>
     <ean>6152800447432</ean>
     <title>MATTEO TRAY SQUARE - Beige / 41cm</title>
     <product_type>Decor &gt; Accessories</product_type>
@@ -1081,6 +1031,56 @@
     <description>Micro leather square tray in Beige, Etoupe, or Craie at 41 or 47cm. Structured, warm, and easy to maintain. Pairs with the MATTEO Round Tray.</description>
   </item>
   <item>
+    <ean>6151115251208</ean>
+    <title>HUNTINGTON Chandelier - Gold</title>
+    <product_type>Lighting &gt; Chandeliers</product_type>
+    <rrp_incl_vat>550.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/huntington-chandelier?variant=52378665255241</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/x28-12sbr.jpg?v=1748283181&amp;width=2000</image>
+    <description>Classic multi-arm chandelier in brushed steel, available in Gold and Bronze. Warm candle-style shades for dining rooms and entrance halls that want genuine ceiling presence.</description>
+  </item>
+  <item>
+    <ean>6151115310332</ean>
+    <title>HUNTINGTON Chandelier - Bronze</title>
+    <product_type>Lighting &gt; Chandeliers</product_type>
+    <rrp_incl_vat>550.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/huntington-chandelier?variant=52733830299977</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/x28-12_3a54b789-5fd5-4b26-8337-f25d24a1fb38.jpg?v=1756927435&amp;width=2000</image>
+    <description>Classic multi-arm chandelier in brushed steel, available in Gold and Bronze. Warm candle-style shades for dining rooms and entrance halls that want genuine ceiling presence.</description>
+  </item>
+  <item>
+    <ean>6152810729740</ean>
+    <title>PEPE Motion Sensor Trimless</title>
+    <product_type>Lighting &gt; Ceiling Spots</product_type>
+    <rrp_incl_vat>139.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/pepe-motion-sensor-trimless?variant=53262131036489</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/pepe-trimless-2.jpg?v=1762293770&amp;width=2000</image>
+    <description>Flush ceiling motion sensor with no visible frame or border. The right choice when automatic lighting activation is needed without interrupting the ceiling surface.</description>
+  </item>
+  <item>
+    <ean>6152805556566</ean>
+    <title>SOLE Mini Tube Spot - Bronze</title>
+    <product_type>Lighting &gt; Ceiling Spots</product_type>
+    <rrp_incl_vat>99.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/sole-mini-tube-spot?variant=53508809982281</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/sole-mini-tube-spot-primary.png?v=1768994058&amp;width=2000</image>
+    <description>Compact tube ceiling spot in Bronze or Black for display shelves and accent lighting. Small, directional, and affordable. Pairs well with the Ultra Mini version.</description>
+  </item>
+  <item>
+    <ean>6152802890809</ean>
+    <title>SOLE Mini Tube Spot - Black</title>
+    <product_type>Lighting &gt; Ceiling Spots</product_type>
+    <rrp_incl_vat>99.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/sole-mini-tube-spot?variant=52379066630473</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/sole-mini-spot.png?v=1768994058&amp;width=2000</image>
+    <description>Compact tube ceiling spot in Bronze or Black for display shelves and accent lighting. Small, directional, and affordable. Pairs well with the Ultra Mini version.</description>
+  </item>
+  <item>
     <ean>6152800907905</ean>
     <title>AMALFI Coffee Table - Black Oiled Oak</title>
     <product_type>Furniture &gt; Coffee Tables</product_type>
@@ -1109,6 +1109,26 @@
     <url>https://www.thegrandcollection.eu/products/amalfi-coffee-table?variant=54915567911241</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/oeoo-20240731093500.jpg?v=1748287249&amp;width=2000</image>
     <description>Round coffee table at 120cm diameter in Black Oiled Oak or Walnut. 34cm height. Pairs naturally with the AMALFI Dining Table in connected spaces.</description>
+  </item>
+  <item>
+    <ean>6152800789761</ean>
+    <title>VICENZO Alabaster wall light - Medium 44cm</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>449.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/vicenzo-alabaster-wall-light?variant=55881340748105</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Vicenzowalllight2.jpg?v=1776675995&amp;width=2000</image>
+    <description>Bronze-framed alabaster wall light at an accessible price. Natural stone light quality for bedrooms and living rooms without the premium of larger stone fittings.</description>
+  </item>
+  <item>
+    <ean />
+    <title>VICENZO Alabaster wall light - Large 65cm</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>740.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/vicenzo-alabaster-wall-light?variant=55881340780873</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/IMG-0428.png?v=1776675995&amp;width=2000</image>
+    <description>Bronze-framed alabaster wall light at an accessible price. Natural stone light quality for bedrooms and living rooms without the premium of larger stone fittings.</description>
   </item>
   <item>
     <ean>6152807675609</ean>
@@ -1141,24 +1161,14 @@
     <description>Alabaster and brushed brass pendant that pairs naturally with the MARIO Chandelier and Wall Light. Warm diffused stone light for a coherent natural stone scheme.</description>
   </item>
   <item>
-    <ean>6152800789761</ean>
-    <title>VICENZO Alabaster wall light - Medium 44cm</title>
+    <ean>6152835792729</ean>
+    <title>FOUR SEASONS Bedside lamp bronze</title>
     <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>449.00</rrp_incl_vat>
+    <rrp_incl_vat>199.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/vicenzo-alabaster-wall-light?variant=55881340748105</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Vicenzowalllight2.jpg?v=1776675995&amp;width=2000</image>
-    <description>Bronze-framed alabaster wall light at an accessible price. Natural stone light quality for bedrooms and living rooms without the premium of larger stone fittings.</description>
-  </item>
-  <item>
-    <ean />
-    <title>VICENZO Alabaster wall light - Large 65cm</title>
-    <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>740.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/vicenzo-alabaster-wall-light?variant=55881340780873</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/IMG-0428.png?v=1776675995&amp;width=2000</image>
-    <description>Bronze-framed alabaster wall light at an accessible price. Natural stone light quality for bedrooms and living rooms without the premium of larger stone fittings.</description>
+    <url>https://www.thegrandcollection.eu/products/four-seasons-bedside-lamp-bronze?variant=54155246862665</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/IMG_0503.jpg?v=1778879320&amp;width=2000</image>
+    <description>Bronze bedside reading wall light for bedrooms that want hotel-standard lighting. Replaces the table lamp and frees up the nightstand surface.</description>
   </item>
   <item>
     <ean>6152802877824</ean>
@@ -1179,16 +1189,6 @@
     <url>https://www.thegrandcollection.eu/products/sole-ultra-mini-tube-spot?variant=53508810768713</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/sole-mini-ultra-tube-spot-primary.png?v=1768993840&amp;width=2000</image>
     <description>The smallest tube spot in the collection. In Black or Bronze, for precise accent lighting of shelves and small objects where fitting size really matters.</description>
-  </item>
-  <item>
-    <ean>6152835792729</ean>
-    <title>FOUR SEASONS Bedside lamp bronze</title>
-    <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>199.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/four-seasons-bedside-lamp-bronze?variant=54155246862665</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/IMG_0503.jpg?v=1778879320&amp;width=2000</image>
-    <description>Bronze bedside reading wall light for bedrooms that want hotel-standard lighting. Replaces the table lamp and frees up the nightstand surface.</description>
   </item>
   <item>
     <ean>6152805311370</ean>
@@ -1491,76 +1491,6 @@
     <description>Alabaster and bronze wall light with a softly translucent stone shade and a G9 socket. Quiet, atmospheric light for hallways and bedrooms.</description>
   </item>
   <item>
-    <ean>6152801017009</ean>
-    <title>CHABLIS Wall Light - Bronze</title>
-    <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>190.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/chablis-wall-light?variant=53419641209161</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/chabli.jpg?v=1764322949&amp;width=2000</image>
-    <description>Compact metal wall light in Bronze, Brushed Brass, or Gun Metal. One of the most affordable, well-finished wall lights in the collection.</description>
-  </item>
-  <item>
-    <ean>6152801038004</ean>
-    <title>CHABLIS Wall Light - Brushed Brass</title>
-    <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>190.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/chablis-wall-light?variant=53419641241929</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/chabli.jpg?v=1764322949&amp;width=2000</image>
-    <description>Compact metal wall light in Bronze, Brushed Brass, or Gun Metal. One of the most affordable, well-finished wall lights in the collection.</description>
-  </item>
-  <item>
-    <ean>6152801046016</ean>
-    <title>CHABLIS Wall Light - Gun Metal</title>
-    <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>190.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/chablis-wall-light?variant=53419641274697</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/chablis-gun-metal.jpg?v=1764322949&amp;width=2000</image>
-    <description>Compact metal wall light in Bronze, Brushed Brass, or Gun Metal. One of the most affordable, well-finished wall lights in the collection.</description>
-  </item>
-  <item>
-    <ean>6152807620661</ean>
-    <title>ROMEE Vanity Stool - Bronze</title>
-    <product_type>Furniture &gt; Bar Stools</product_type>
-    <rrp_incl_vat>590.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/romee-vanity-stool?variant=55175672725833</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/lisa-vanity-swivel-chair-2.jpg?v=1762294034&amp;width=2000</image>
-    <description>Compact woven fabric vanity stool for dressing tables and bedroom vanity positions. Pairs with the MONROE Dressing Table for a complete vanity setting.</description>
-  </item>
-  <item>
-    <ean>6152804980942</ean>
-    <title>ROMEE Vanity Stool - White beige</title>
-    <product_type>Furniture &gt; Bar Stools</product_type>
-    <rrp_incl_vat>590.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/romee-vanity-stool?variant=55175672758601</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Romee_white_beige.jpg?v=1788100812&amp;width=2000</image>
-    <description>Compact woven fabric vanity stool for dressing tables and bedroom vanity positions. Pairs with the MONROE Dressing Table for a complete vanity setting.</description>
-  </item>
-  <item>
-    <ean>6156047556537</ean>
-    <title>ROMEE Vanity Stool - Melange chanel tweed</title>
-    <product_type>Furniture &gt; Bar Stools</product_type>
-    <rrp_incl_vat>640.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/romee-vanity-stool?variant=55175672791369</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/233CE151-9CBF-491E-97AD-2A3FB890EC75.jpg?v=1788100949&amp;width=2000</image>
-    <description>Compact woven fabric vanity stool for dressing tables and bedroom vanity positions. Pairs with the MONROE Dressing Table for a complete vanity setting.</description>
-  </item>
-  <item>
-    <ean>6152810721768</ean>
-    <title>PEPE Motion Sensor</title>
-    <product_type>Lighting &gt; Ceiling Spots</product_type>
-    <rrp_incl_vat>118.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/pepe-motion-sensor?variant=53262131429705</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/pep-motion-sensor-primary.png?v=1768993875&amp;width=2000</image>
-    <description>Compact surface-mounted ceiling motion sensor in stainless steel and resin. Clean, practical, and easy to install for corridors, stairwells, and entrance halls.</description>
-  </item>
-  <item>
     <ean>6156050030000</ean>
     <title>MATTEO SQUARE TRAY with rounded corners - 45cm / Beige</title>
     <product_type>Decor &gt; Accessories</product_type>
@@ -1641,6 +1571,76 @@
     <description>Square micro leather tray with rounded corners, 45 or 70cm, in Beige, Etoupe, Craie or Marrone. A soft, structured surface for coffee tables and ottomans.</description>
   </item>
   <item>
+    <ean>6152801017009</ean>
+    <title>CHABLIS Wall Light - Bronze</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>190.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/chablis-wall-light?variant=53419641209161</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/chabli.jpg?v=1764322949&amp;width=2000</image>
+    <description>Compact metal wall light in Bronze, Brushed Brass, or Gun Metal. One of the most affordable, well-finished wall lights in the collection.</description>
+  </item>
+  <item>
+    <ean>6152801038004</ean>
+    <title>CHABLIS Wall Light - Brushed Brass</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>190.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/chablis-wall-light?variant=53419641241929</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/chabli.jpg?v=1764322949&amp;width=2000</image>
+    <description>Compact metal wall light in Bronze, Brushed Brass, or Gun Metal. One of the most affordable, well-finished wall lights in the collection.</description>
+  </item>
+  <item>
+    <ean>6152801046016</ean>
+    <title>CHABLIS Wall Light - Gun Metal</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>190.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/chablis-wall-light?variant=53419641274697</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/chablis-gun-metal.jpg?v=1764322949&amp;width=2000</image>
+    <description>Compact metal wall light in Bronze, Brushed Brass, or Gun Metal. One of the most affordable, well-finished wall lights in the collection.</description>
+  </item>
+  <item>
+    <ean>6152807620661</ean>
+    <title>ROMEE Vanity Stool - Bronze</title>
+    <product_type>Furniture &gt; Bar Stools</product_type>
+    <rrp_incl_vat>590.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/romee-vanity-stool?variant=55175672725833</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/lisa-vanity-swivel-chair-2.jpg?v=1762294034&amp;width=2000</image>
+    <description>Compact woven fabric vanity stool for dressing tables and bedroom vanity positions. Pairs with the MONROE Dressing Table for a complete vanity setting.</description>
+  </item>
+  <item>
+    <ean>6152804980942</ean>
+    <title>ROMEE Vanity Stool - White beige</title>
+    <product_type>Furniture &gt; Bar Stools</product_type>
+    <rrp_incl_vat>590.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/romee-vanity-stool?variant=55175672758601</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Romee_white_beige.jpg?v=1788100812&amp;width=2000</image>
+    <description>Compact woven fabric vanity stool for dressing tables and bedroom vanity positions. Pairs with the MONROE Dressing Table for a complete vanity setting.</description>
+  </item>
+  <item>
+    <ean>6156047556537</ean>
+    <title>ROMEE Vanity Stool - Melange chanel tweed</title>
+    <product_type>Furniture &gt; Bar Stools</product_type>
+    <rrp_incl_vat>640.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/romee-vanity-stool?variant=55175672791369</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/233CE151-9CBF-491E-97AD-2A3FB890EC75.jpg?v=1788100949&amp;width=2000</image>
+    <description>Compact woven fabric vanity stool for dressing tables and bedroom vanity positions. Pairs with the MONROE Dressing Table for a complete vanity setting.</description>
+  </item>
+  <item>
+    <ean>6152810721768</ean>
+    <title>PEPE Motion Sensor</title>
+    <product_type>Lighting &gt; Ceiling Spots</product_type>
+    <rrp_incl_vat>118.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/pepe-motion-sensor?variant=53262131429705</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/pep-motion-sensor-primary.png?v=1768993875&amp;width=2000</image>
+    <description>Compact surface-mounted ceiling motion sensor in stainless steel and resin. Clean, practical, and easy to install for corridors, stairwells, and entrance halls.</description>
+  </item>
+  <item>
     <ean>6152800837844</ean>
     <title>DUOMO Candle Holder - Small</title>
     <product_type>Decor &gt; Accessories</product_type>
@@ -1698,6 +1698,16 @@
     <currency>EUR</currency>
     <url>https://www.thegrandcollection.eu/products/vera-ottoman?variant=52881904894281</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/13_ea0e1f60-0ea1-4905-bfc8-ccde924e9142.png?v=1767736233&amp;width=2000</image>
+    <description>Compact pouf, 37x37cm and 46cm high, in Light Taupe Hopsack, White Beige fabric or Mystic Green Velvet. Extra seating or a footrest that fits anywhere.</description>
+  </item>
+  <item>
+    <ean>9501624778463</ean>
+    <title>VERA Ottoman - Mocha Taupe Wool</title>
+    <product_type>Furniture &gt; Ottomans</product_type>
+    <rrp_incl_vat>690.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/vera-ottoman?variant=56111364309321</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Moderne_taupe_boucle_poef_met_leren_band_5a2c8103-8c5b-413b-a750-2a6309c2125f.png?v=1795687730&amp;width=2000</image>
     <description>Compact pouf, 37x37cm and 46cm high, in Light Taupe Hopsack, White Beige fabric or Mystic Green Velvet. Extra seating or a footrest that fits anywhere.</description>
   </item>
   <item>
@@ -1871,6 +1881,26 @@
     <description>Round bronze electroplated wall mirror in 100 or 130cm. Warm, present metallic frame with genuine surface depth. Available in Brushed Bronze and Gold.</description>
   </item>
   <item>
+    <ean>6156048199108</ean>
+    <title>OSAKA Wall Light Lavastone - Medium</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>530.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/osaka-wall-light-lavastone?variant=55135818776905</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Osaka_Lavastone_alabaster_204b8312-a13b-4e7e-8bf9-b9c3e227b7c0.jpg?v=1787664964&amp;width=2000</image>
+    <description>Organic stone wall light with golden amber tones, in Medium and Large. A warm, dimmable glow that brings out the natural colour of the stone.</description>
+  </item>
+  <item>
+    <ean>6156048130118</ean>
+    <title>OSAKA Wall Light Lavastone - Large</title>
+    <product_type>Lighting &gt; Wall Lights</product_type>
+    <rrp_incl_vat>670.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/osaka-wall-light-lavastone?variant=55135818809673</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/OSAKA_Large_lavastone_ba9540b9-a247-4df9-b2c0-32f5d2e7a3e4.jpg?v=1787664944&amp;width=2000</image>
+    <description>Organic stone wall light with golden amber tones, in Medium and Large. A warm, dimmable glow that brings out the natural colour of the stone.</description>
+  </item>
+  <item>
     <ean>6156041382378</ean>
     <title>CIRO Bench Taupe</title>
     <product_type>Furniture &gt; Benches</product_type>
@@ -2031,6 +2061,16 @@
     <description>Round antique bronze planter in 45 or 60cm diameter. Warm, aged finish for indoor use. Softer and more sculptural than the square version.</description>
   </item>
   <item>
+    <ean>6152817532596</ean>
+    <title>VALERIA Dining Chair</title>
+    <product_type>Furniture &gt; Dining Chairs</product_type>
+    <rrp_incl_vat>630.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/valeria-dining-chair?variant=52379078787401</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/valeria-dining-chair-primary.png?v=1768133848&amp;width=2000</image>
+    <description>Hand-stitched leather dining chair with a generous curved seat in Beige. Crafted leather quality at a mid-range per-chair price.</description>
+  </item>
+  <item>
     <ean>6152846858810</ean>
     <title>LUSSO DUE Adjustable Led Spot - Small / Bronze</title>
     <product_type>Lighting &gt; Ceiling Spots</product_type>
@@ -2111,6 +2151,26 @@
     <description>Linear pendant chandelier with natural alabaster shades along a steel body. Warm, atmospheric stone light along a horizontal axis for long dining tables and islands.</description>
   </item>
   <item>
+    <ean>6151107220274</ean>
+    <title>BOLOGNA Nightstand - Light Oak</title>
+    <product_type>Furniture &gt; Nightstands</product_type>
+    <rrp_incl_vat>1490.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/bologna-nightstand?variant=54968764170569</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/IMG-8890.png?v=1785378693&amp;width=2000</image>
+    <description>Solid wood nightstand with a Calacatta Marble top. Natural stone at the bedside, unique veining on every piece. A premium choice for master bedrooms.</description>
+  </item>
+  <item>
+    <ean>6151107220274</ean>
+    <title>BOLOGNA Nightstand - Charcoal Oak</title>
+    <product_type>Furniture &gt; Nightstands</product_type>
+    <rrp_incl_vat>1490.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/bologna-nightstand?variant=54968764203337</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/F4ECAA9E-51C6-49F7-B379-1FCF5204C0F7.png?v=1785378664&amp;width=2000</image>
+    <description>Solid wood nightstand with a Calacatta Marble top. Natural stone at the bedside, unique veining on every piece. A premium choice for master bedrooms.</description>
+  </item>
+  <item>
     <ean>6151109682681</ean>
     <title>CHIARA Chandelier - Bronze Milk Glass</title>
     <product_type>Lighting &gt; Chandeliers</product_type>
@@ -2159,26 +2219,6 @@
     <url>https://www.thegrandcollection.eu/products/amarone-wall-light?variant=55520592331081</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/09765D7D-141D-42C7-AB5B-10DFB265CC04.png?v=1791194178&amp;width=2000</image>
     <description>Opal milk glass wall light on a bronze base, with two or three globes and G4 sockets. Soft, diffused light for hallways and bedrooms.</description>
-  </item>
-  <item>
-    <ean>6156048199108</ean>
-    <title>OSAKA Wall Light Lavastone - Medium</title>
-    <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>530.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/osaka-wall-light-lavastone?variant=55135818776905</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Osaka_Lavastone_alabaster_204b8312-a13b-4e7e-8bf9-b9c3e227b7c0.jpg?v=1787664964&amp;width=2000</image>
-    <description>Organic stone wall light with golden amber tones, in Medium and Large. A warm, dimmable glow that brings out the natural colour of the stone.</description>
-  </item>
-  <item>
-    <ean>6156048130118</ean>
-    <title>OSAKA Wall Light Lavastone - Large</title>
-    <product_type>Lighting &gt; Wall Lights</product_type>
-    <rrp_incl_vat>670.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/osaka-wall-light-lavastone?variant=55135818809673</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/OSAKA_Large_lavastone_ba9540b9-a247-4df9-b2c0-32f5d2e7a3e4.jpg?v=1787664944&amp;width=2000</image>
-    <description>Organic stone wall light with golden amber tones, in Medium and Large. A warm, dimmable glow that brings out the natural colour of the stone.</description>
   </item>
   <item>
     <ean>6156041173143</ean>
@@ -2261,6 +2301,16 @@
     <description>Round coffee table at 90cm diameter wrapped in high-quality micro leather. Tactile, warm, and perfectly suited to living rooms built around soft materials.</description>
   </item>
   <item>
+    <ean>6152816969935</ean>
+    <title>BELLAGIO Side Table Round</title>
+    <product_type>Furniture &gt; Side Tables</product_type>
+    <rrp_incl_vat>650.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/bellagio-side-table-round?variant=53262147420489</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/twist-end-table.png?v=1762294142&amp;width=2000</image>
+    <description>Compact leather-wrapped round side table at 39cm diameter, 49cm height. Soft, tactile, and warm beside fabric sofas and upholstered chairs.</description>
+  </item>
+  <item>
     <ean>6152807310319</ean>
     <title>GUBI Bench - White beige check</title>
     <product_type>Furniture &gt; Benches</product_type>
@@ -2289,16 +2339,6 @@
     <url>https://www.thegrandcollection.eu/products/dante-desk-cabinet?variant=52379080098121</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/bd24259-2.jpg?v=1748288620&amp;width=2000</image>
     <description>Bronze and wood veneer desk and cabinet in one. A considered home office piece for open or living spaces where the desk is expected to earn its place as design.</description>
-  </item>
-  <item>
-    <ean>6152817532596</ean>
-    <title>VALERIA Dining Chair</title>
-    <product_type>Furniture &gt; Dining Chairs</product_type>
-    <rrp_incl_vat>630.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/valeria-dining-chair?variant=52379078787401</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/valeria-dining-chair-primary.png?v=1768133848&amp;width=2000</image>
-    <description>Hand-stitched leather dining chair with a generous curved seat in Beige. Crafted leather quality at a mid-range per-chair price.</description>
   </item>
   <item>
     <ean>6152803761702</ean>
@@ -2389,6 +2429,36 @@
     <url>https://www.thegrandcollection.eu/products/rock-wardrobe-mirror-swivel?variant=52378895515977</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/rock-mirror-1.jpg?v=1771272783&amp;width=2000</image>
     <description>Full-length free-standing mirror on a bronze swivel base. No wall fixings needed. Rotates to any angle for dressing rooms and bedrooms.</description>
+  </item>
+  <item>
+    <ean>6151106693611</ean>
+    <title>ANNA Dining Chair - Greige Cashmere</title>
+    <product_type>Furniture &gt; Dining Chairs</product_type>
+    <rrp_incl_vat>795.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/anna-dining-chair?variant=52378887520585</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/anna-dining-chair-primary.png?v=1768134028&amp;width=2000</image>
+    <description>Cashmere and woven fabric dining chair in Greige or White Beige. Softer and more tactile at the seat than any standard dining fabric. Priced per chair.</description>
+  </item>
+  <item>
+    <ean>6152800554536</ean>
+    <title>ANNA Dining Chair - White Beige</title>
+    <product_type>Furniture &gt; Dining Chairs</product_type>
+    <rrp_incl_vat>795.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/anna-dining-chair?variant=52881655923017</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/s1a0937_7d517df8-d89a-4f37-b2c9-55643b1be4a2.jpg?v=1768134028&amp;width=2000</image>
+    <description>Cashmere and woven fabric dining chair in Greige or White Beige. Softer and more tactile at the seat than any standard dining fabric. Priced per chair.</description>
+  </item>
+  <item>
+    <ean />
+    <title>ANNA Dining Chair - Terra</title>
+    <product_type>Furniture &gt; Dining Chairs</product_type>
+    <rrp_incl_vat>850.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/anna-dining-chair?variant=55176569520457</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/anna-dining-chair-terra.jpg?v=1788121574&amp;width=2000</image>
+    <description>Cashmere and woven fabric dining chair in Greige or White Beige. Softer and more tactile at the seat than any standard dining fabric. Priced per chair.</description>
   </item>
   <item>
     <ean>6151108270247</ean>
@@ -2529,26 +2599,6 @@
     <url>https://www.thegrandcollection.eu/products/chianti-carpet?variant=52881702650185</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/the-grand-117-grey_b116cbb7-acdb-4cc5-acf3-a8d386abb362.jpg?v=1748284994&amp;width=2000</image>
     <description>Bamboo-silk rug in 200x300 or 300x400cm, in colours from Silver Beige to Deep Forest. Soft underfoot with a subtle sheen that ties a seating group together.</description>
-  </item>
-  <item>
-    <ean>6151107220274</ean>
-    <title>BOLOGNA Nightstand - Light Oak</title>
-    <product_type>Furniture &gt; Nightstands</product_type>
-    <rrp_incl_vat>1490.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/bologna-nightstand?variant=54968764170569</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/IMG-8890.png?v=1785378693&amp;width=2000</image>
-    <description>Solid wood nightstand with a Calacatta Marble top. Natural stone at the bedside, unique veining on every piece. A premium choice for master bedrooms.</description>
-  </item>
-  <item>
-    <ean>6151107220274</ean>
-    <title>BOLOGNA Nightstand - Charcoal Oak</title>
-    <product_type>Furniture &gt; Nightstands</product_type>
-    <rrp_incl_vat>1490.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/bologna-nightstand?variant=54968764203337</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/F4ECAA9E-51C6-49F7-B379-1FCF5204C0F7.png?v=1785378664&amp;width=2000</image>
-    <description>Solid wood nightstand with a Calacatta Marble top. Natural stone at the bedside, unique veining on every piece. A premium choice for master bedrooms.</description>
   </item>
   <item>
     <ean>6151120429425</ean>
@@ -2751,16 +2801,6 @@
     <description>Taller three-ring alabaster pendant in Bronze or Brushed Brass. More presence and output than the two-ring version for higher-ceilinged dining rooms.</description>
   </item>
   <item>
-    <ean>6152816969935</ean>
-    <title>BELLAGIO Side Table Round</title>
-    <product_type>Furniture &gt; Side Tables</product_type>
-    <rrp_incl_vat>650.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/bellagio-side-table-round?variant=53262147420489</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/twist-end-table.png?v=1762294142&amp;width=2000</image>
-    <description>Compact leather-wrapped round side table at 39cm diameter, 49cm height. Soft, tactile, and warm beside fabric sofas and upholstered chairs.</description>
-  </item>
-  <item>
     <ean>6152810680690</ean>
     <title>CHLOE Side Table</title>
     <product_type>Furniture &gt; Side Tables</product_type>
@@ -2871,36 +2911,6 @@
     <description>Upholstered 170cm bench in White Beige luxury weave fabric. Low and calm, for the end of a bed, a hallway or along the dining table.</description>
   </item>
   <item>
-    <ean>6151106693611</ean>
-    <title>ANNA Dining Chair - Greige Cashmere</title>
-    <product_type>Furniture &gt; Dining Chairs</product_type>
-    <rrp_incl_vat>795.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/anna-dining-chair?variant=52378887520585</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/anna-dining-chair-primary.png?v=1768134028&amp;width=2000</image>
-    <description>Cashmere and woven fabric dining chair in Greige or White Beige. Softer and more tactile at the seat than any standard dining fabric. Priced per chair.</description>
-  </item>
-  <item>
-    <ean>6152800554536</ean>
-    <title>ANNA Dining Chair - White Beige</title>
-    <product_type>Furniture &gt; Dining Chairs</product_type>
-    <rrp_incl_vat>795.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/anna-dining-chair?variant=52881655923017</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/s1a0937_7d517df8-d89a-4f37-b2c9-55643b1be4a2.jpg?v=1768134028&amp;width=2000</image>
-    <description>Cashmere and woven fabric dining chair in Greige or White Beige. Softer and more tactile at the seat than any standard dining fabric. Priced per chair.</description>
-  </item>
-  <item>
-    <ean />
-    <title>ANNA Dining Chair - Terra</title>
-    <product_type>Furniture &gt; Dining Chairs</product_type>
-    <rrp_incl_vat>850.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/anna-dining-chair?variant=55176569520457</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/anna-dining-chair-terra.jpg?v=1788121574&amp;width=2000</image>
-    <description>Cashmere and woven fabric dining chair in Greige or White Beige. Softer and more tactile at the seat than any standard dining fabric. Priced per chair.</description>
-  </item>
-  <item>
     <ean>6151157430456</ean>
     <title>ROMEO Dining Chair - Taupe</title>
     <product_type>Furniture &gt; Dining Chairs</product_type>
@@ -2919,6 +2929,26 @@
     <url>https://www.thegrandcollection.eu/products/romeo-dining-chair?variant=54332488188233</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/IMG-8894.png?v=1785378192&amp;width=2000</image>
     <description>Hand-stitched leather dining chair on a wood frame in Beige or Off White. Visible craftsmanship at the table, in the most premium leather dining chair in the collection.</description>
+  </item>
+  <item>
+    <ean>6151112073094</ean>
+    <title>FLAVIO Mirror Rectangular - 120 cm</title>
+    <product_type>Decor &gt; Mirrors</product_type>
+    <rrp_incl_vat>1090.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/flavio-mirror-rectangular?variant=52378861371721</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/sa508-3.jpg?v=1748285089&amp;width=2000</image>
+    <description>Tall rectangular mirror in an aged bronze finish in 120 or 190cm height. Warm, slightly antiqued quality for entrance halls and dressing areas.</description>
+  </item>
+  <item>
+    <ean>6151112286203</ean>
+    <title>FLAVIO Mirror Rectangular - 190 cm</title>
+    <product_type>Decor &gt; Mirrors</product_type>
+    <rrp_incl_vat>1490.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/flavio-mirror-rectangular?variant=53421879165257</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/sa508.jpg?v=1748285080&amp;width=2000</image>
+    <description>Tall rectangular mirror in an aged bronze finish in 120 or 190cm height. Warm, slightly antiqued quality for entrance halls and dressing areas.</description>
   </item>
   <item>
     <ean>6151155467478</ean>
@@ -3471,6 +3501,36 @@
     <description>Hopsack fabric ottoman with micro leather base detail on stainless steel. 70x45cm, 45cm height. A footrest or low extra seat within the GREGORIO family.</description>
   </item>
   <item>
+    <ean>6152836347393</ean>
+    <title>Mizu Side Table - Silver Travertin</title>
+    <product_type>Furniture &gt; Side Tables</product_type>
+    <rrp_incl_vat>690.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/mizu-side-table?variant=53418063528265</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/schermafbeelding-2025-05-27-om-220403.png?v=1762293614&amp;width=2000</image>
+    <description>Compact solid stone side table at 40cm diameter, 50cm height. Available in Silver Travertin, Burgundy Emperador, or Amber Travertin. Three stones, one design.</description>
+  </item>
+  <item>
+    <ean>6152835774763</ean>
+    <title>Mizu Side Table - Burgundy Emperador</title>
+    <product_type>Furniture &gt; Side Tables</product_type>
+    <rrp_incl_vat>690.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/mizu-side-table?variant=53418063561033</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/9a78c6b1-e320-4a91-b520-da4c1b412b38.jpg?v=1762293630&amp;width=2000</image>
+    <description>Compact solid stone side table at 40cm diameter, 50cm height. Available in Silver Travertin, Burgundy Emperador, or Amber Travertin. Three stones, one design.</description>
+  </item>
+  <item>
+    <ean>6152835215297</ean>
+    <title>Mizu Side Table - Amber Travertin</title>
+    <product_type>Furniture &gt; Side Tables</product_type>
+    <rrp_incl_vat>690.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/mizu-side-table?variant=53418063593801</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/7dd2b44d-1e10-4f82-8bb6-4979d6927111-1.jpg?v=1762293646&amp;width=2000</image>
+    <description>Compact solid stone side table at 40cm diameter, 50cm height. Available in Silver Travertin, Burgundy Emperador, or Amber Travertin. Three stones, one design.</description>
+  </item>
+  <item>
     <ean>6151118357372</ean>
     <title>ALDO Nightstand - Charcoal Oak</title>
     <product_type>Furniture &gt; Nightstands</product_type>
@@ -3631,26 +3691,6 @@
     <description>Brushed steel lounge chair in Beige, Grey Chanel Tweed, or Green. Three very different moods from one design. The tweed is the most distinctive option.</description>
   </item>
   <item>
-    <ean>6151112073094</ean>
-    <title>FLAVIO Mirror Rectangular - 120 cm</title>
-    <product_type>Decor &gt; Mirrors</product_type>
-    <rrp_incl_vat>1090.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/flavio-mirror-rectangular?variant=52378861371721</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/sa508-3.jpg?v=1748285089&amp;width=2000</image>
-    <description>Tall rectangular mirror in an aged bronze finish in 120 or 190cm height. Warm, slightly antiqued quality for entrance halls and dressing areas.</description>
-  </item>
-  <item>
-    <ean>6151112286203</ean>
-    <title>FLAVIO Mirror Rectangular - 190 cm</title>
-    <product_type>Decor &gt; Mirrors</product_type>
-    <rrp_incl_vat>1490.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/flavio-mirror-rectangular?variant=53421879165257</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/sa508.jpg?v=1748285080&amp;width=2000</image>
-    <description>Tall rectangular mirror in an aged bronze finish in 120 or 190cm height. Warm, slightly antiqued quality for entrance halls and dressing areas.</description>
-  </item>
-  <item>
     <ean>6151125638662</ean>
     <title>MILANO Bar Chair - Greige Fabric</title>
     <product_type>Furniture &gt; Bar Stools</product_type>
@@ -3761,13 +3801,13 @@
     <description>Upholstered velvet dining chair in Grey, Greige, or Light Beige. One of the most accessible quality fabric dining chairs in the collection. Priced per chair.</description>
   </item>
   <item>
-    <ean>6151126011075</ean>
-    <title>MILANO Dining Chair - Greige Fabric</title>
+    <ean>9507218515926</ean>
+    <title>MILANO Dining Chair - Mocha Taupe - wool</title>
     <product_type>Furniture &gt; Dining Chairs</product_type>
-    <rrp_incl_vat>550.00</rrp_incl_vat>
+    <rrp_incl_vat>890.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/milano-dining-chair?variant=52881830805833</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/chair-1_7a105058-a4bd-4112-95f7-3737877aa700.jpg?v=1768134310&amp;width=2000</image>
+    <url>https://www.thegrandcollection.eu/products/milano-dining-chair?variant=56111768076617</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/6A5EA597-7ECC-4462-B5D9-2398938A987F.png?v=1795689131&amp;width=2000</image>
     <description>Upholstered velvet dining chair in Grey, Greige, or Light Beige. One of the most accessible quality fabric dining chairs in the collection. Priced per chair.</description>
   </item>
   <item>
@@ -4031,13 +4071,23 @@
     <description>Woven fabric pillow with filling included. Soft and considered for sofas, beds and lounge chairs.</description>
   </item>
   <item>
-    <ean>6152805029022</ean>
-    <title>GIULI Side Table</title>
+    <ean>6156048540528</ean>
+    <title>GIULI Side Table - Black Oak</title>
     <product_type>Furniture &gt; Side Tables</product_type>
     <rrp_incl_vat>730.00</rrp_incl_vat>
     <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/giuli-side-table?variant=55099313127753</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/cb96714513b6c8f1bc32efb2d09dc405_-_The_Grand_Interior_bcb5ee4f-8b19-4f6d-8126-fea3be58ce63.jpg?v=1787125483&amp;width=2000</image>
+    <url>https://www.thegrandcollection.eu/products/giuli-side-table?variant=56112552771913</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Giuli_black_side_table.png?v=1795692389&amp;width=2000</image>
+    <description>Pebble-shaped side table in oak veneer, 57 by 56 cm. Part of the GIULI family and a natural companion to the GIULI Coffee Tables.</description>
+  </item>
+  <item>
+    <ean>6152805029023</ean>
+    <title>GIULI Side Table - Light Oak</title>
+    <product_type>Furniture &gt; Side Tables</product_type>
+    <rrp_incl_vat>730.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/giuli-side-table?variant=56112552804681</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/b3f472032d8e5fd3288f80620df8fec0_-_The_Grand_Interior.jpg?v=1767562587&amp;width=2000</image>
     <description>Pebble-shaped side table in oak veneer, 57 by 56 cm. Part of the GIULI family and a natural companion to the GIULI Coffee Tables.</description>
   </item>
   <item>
@@ -5101,19 +5151,119 @@
     <description>Large circular smoke glass mirror in Gun Black, 120 or 160cm. Reflections are softened and tinted, adding atmospheric depth no clear mirror can replicate.</description>
   </item>
   <item>
+    <ean>9509878988942</ean>
+    <title>OTTAVIO Coffee Tables - Small 62</title>
+    <product_type>Furniture &gt; Coffee Tables</product_type>
+    <rrp_incl_vat>850.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/ottavio-coffee-tables?variant=56112388997449</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Ottaviocoffeetablesmal.webp?v=1795691270&amp;width=2000</image>
+    <description />
+  </item>
+  <item>
+    <ean>9507248312960</ean>
+    <title>OTTAVIO Coffee Tables - Medium 98</title>
+    <product_type>Furniture &gt; Coffee Tables</product_type>
+    <rrp_incl_vat>1090.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/ottavio-coffee-tables?variant=56112389030217</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Ottaviomedium.jpg?v=1795691270&amp;width=2000</image>
+    <description />
+  </item>
+  <item>
+    <ean>9502685575626</ean>
+    <title>OTTAVIO Coffee Tables - Large 140</title>
+    <product_type>Furniture &gt; Coffee Tables</product_type>
+    <rrp_incl_vat>1690.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/ottavio-coffee-tables?variant=56112389062985</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/Ottavio_Coffee_table_Large_cc5304ef-339a-4847-b312-93b57165578c.jpg?v=1795691280&amp;width=2000</image>
+    <description />
+  </item>
+  <item>
+    <ean>9504153258673</ean>
+    <title>ALLEGRA Sofa Mocha Taupe</title>
+    <product_type>Furniture &gt; Sofas</product_type>
+    <rrp_incl_vat>7300.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/allegra-sofa-mocha-taupe?variant=56110561001801</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/7386FBDA-4CD7-4C9F-94B9-5835947ADE5F.png?v=1795685737&amp;width=2000</image>
+    <description />
+  </item>
+  <item>
+    <ean>9508847541638</ean>
+    <title>MADERNO Coffee Table</title>
+    <product_type>Furniture &gt; Coffee Tables</product_type>
+    <rrp_incl_vat>3990.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/maderno-coffee-table?variant=56106627989833</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/IMG_6680_d8b387df-ac75-4072-925a-acdc9e751e6c.jpg?v=1795625510&amp;width=2000</image>
+    <description />
+  </item>
+  <item>
+    <ean>9501366812630</ean>
+    <title>CALDARO Leisure Chair ivory Siena</title>
+    <product_type>Furniture &gt; Lounge Chairs</product_type>
+    <rrp_incl_vat>1730.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/caldaro-leisure-chair-ivory-siena?variant=56106537255241</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/IMG_6683.jpg?v=1795621913&amp;width=2000</image>
+    <description />
+  </item>
+  <item>
+    <ean>9503634731995</ean>
+    <title>MONTONE Bar Chair Warm Beige</title>
+    <product_type>Furniture &gt; Bar Stools</product_type>
+    <rrp_incl_vat>1850.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/montone-bar-chair-warm-beige?variant=56106279502153</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/IMG_6655.jpg?v=1795619641&amp;width=2000</image>
+    <description />
+  </item>
+  <item>
+    <ean>9505633426889</ean>
+    <title>MONTONE Dining Chair</title>
+    <product_type>Furniture &gt; Dining Chairs</product_type>
+    <rrp_incl_vat>1390.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/montone-dining-chair?variant=56106186146121</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/MONTONE.jpg?v=1795618108&amp;width=2000</image>
+    <description />
+  </item>
+  <item>
+    <ean>9502253312646</ean>
+    <title>BRERA Leisure Chair Ivory</title>
+    <product_type>Furniture &gt; Lounge Chairs</product_type>
+    <rrp_incl_vat>3450.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/brera-leisure-chair-ivory?variant=56106157146441</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/BRERALeisureChairIvory.jpg?v=1795617772&amp;width=2000</image>
+    <description />
+  </item>
+  <item>
+    <ean>9509146984751</ean>
+    <title>ASOLO Dining Chair</title>
+    <product_type>Furniture &gt; Dining Chairs</product_type>
+    <rrp_incl_vat>1990.00</rrp_incl_vat>
+    <currency>EUR</currency>
+    <url>https://www.thegrandcollection.eu/products/asolo-dining-chair?variant=56106126278985</url>
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/ASOLO.jpg?v=1795617168&amp;width=2000</image>
+    <description />
+  </item>
+  <item>
     <ean>9501221339234</ean>
     <title>VIGO Dining Chair</title>
     <product_type>Furniture &gt; Dining Chairs</product_type>
     <rrp_incl_vat>1690.00</rrp_incl_vat>
     <currency>EUR</currency>
     <url>https://www.thegrandcollection.eu/products/vigo-dining-chair?variant=56105383264585</url>
-    <image />
+    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/VIGO_Chair.jpg?v=1795614615&amp;width=2000</image>
     <description />
   </item>
   <item>
     <ean>9502143185749</ean>
     <title>NILO Tube spotlight Bronze</title>
-    <product_type />
+    <product_type>Lighting &gt; Ceiling Spots</product_type>
     <rrp_incl_vat>138.00</rrp_incl_vat>
     <currency>EUR</currency>
     <url>https://www.thegrandcollection.eu/products/nilo-tube-spotlight-bronze?variant=56102720635209</url>
@@ -6861,36 +7011,6 @@
     <description>4-seat sofa at 304x102cm in Hopsack fabric with a micro leather base detail. Considered and durable, pairs with the GREGORIO Chaise Lounge.</description>
   </item>
   <item>
-    <ean>6152836347393</ean>
-    <title>Mizu Side Table - Silver Travertin</title>
-    <product_type>Furniture &gt; Side Tables</product_type>
-    <rrp_incl_vat>690.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/mizu-side-table?variant=53418063528265</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/schermafbeelding-2025-05-27-om-220403.png?v=1762293614&amp;width=2000</image>
-    <description>Compact solid stone side table at 40cm diameter, 50cm height. Available in Silver Travertin, Burgundy Emperador, or Amber Travertin. Three stones, one design.</description>
-  </item>
-  <item>
-    <ean>6152835774763</ean>
-    <title>Mizu Side Table - Burgundy Emperador</title>
-    <product_type>Furniture &gt; Side Tables</product_type>
-    <rrp_incl_vat>690.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/mizu-side-table?variant=53418063561033</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/9a78c6b1-e320-4a91-b520-da4c1b412b38.jpg?v=1762293630&amp;width=2000</image>
-    <description>Compact solid stone side table at 40cm diameter, 50cm height. Available in Silver Travertin, Burgundy Emperador, or Amber Travertin. Three stones, one design.</description>
-  </item>
-  <item>
-    <ean>6152835215297</ean>
-    <title>Mizu Side Table - Amber Travertin</title>
-    <product_type>Furniture &gt; Side Tables</product_type>
-    <rrp_incl_vat>690.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/mizu-side-table?variant=53418063593801</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/7dd2b44d-1e10-4f82-8bb6-4979d6927111-1.jpg?v=1762293646&amp;width=2000</image>
-    <description>Compact solid stone side table at 40cm diameter, 50cm height. Available in Silver Travertin, Burgundy Emperador, or Amber Travertin. Three stones, one design.</description>
-  </item>
-  <item>
     <ean>6151114116133</ean>
     <title>GIULIA Console Table</title>
     <product_type>Furniture &gt; Console Tables</product_type>
@@ -7189,26 +7309,6 @@
     <url>https://www.thegrandcollection.eu/products/lyon-arm-chair?variant=52379030749513</url>
     <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/img-4935.jpg?v=1762801370&amp;width=2000</image>
     <description>Premium woven fabric lounge chair in the LYON family. Wide seat, supported back, durable fabric. A quality investment for living rooms furnished around LYON.</description>
-  </item>
-  <item>
-    <ean>6152803455434</ean>
-    <title>ITALIA Corner Sofa - Left</title>
-    <product_type>Furniture &gt; Sofas</product_type>
-    <rrp_incl_vat>12900.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/italia-corner-sofa?variant=52379027767625</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/italia-sofa_807cb5c3-d55b-455f-bd98-fab02727fef4.jpg?v=1748287823&amp;width=2000</image>
-    <description>Large fully upholstered corner sofa at 421x280cm with feather foam cushioning. Seats 5 to 6. A grounded, anchored presence for open-plan living rooms.</description>
-  </item>
-  <item>
-    <ean>6152803442403</ean>
-    <title>ITALIA Corner Sofa - Right</title>
-    <product_type>Furniture &gt; Sofas</product_type>
-    <rrp_incl_vat>12900.00</rrp_incl_vat>
-    <currency>EUR</currency>
-    <url>https://www.thegrandcollection.eu/products/italia-corner-sofa?variant=52881779032393</url>
-    <image>https://cdn.shopify.com/s/files/1/0945/7198/7273/files/italia-sofa_807cb5c3-d55b-455f-bd98-fab02727fef4.jpg?v=1748287823&amp;width=2000</image>
-    <description>Large fully upholstered corner sofa at 421x280cm with feather foam cushioning. Seats 5 to 6. A grounded, anchored presence for open-plan living rooms.</description>
   </item>
   <item>
     <ean>6152803363364</ean>
